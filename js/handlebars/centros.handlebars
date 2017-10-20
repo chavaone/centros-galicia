@@ -1,0 +1,13 @@
+{{#each centros}}
+<article class="centro" data-cod-centro="{{cod}}">
+    <header>
+        <h4>{{nombre}}</h4>
+        <div class="pull-right">
+            <div>{{concello}}</div>
+            <div>{{provincia}}</div>
+        </div>
+        <i class="fa fa-arrows-alt sortable-handle" aria-hidden="true"></i>
+        <i class="fa fa-trash" aria-hidden="true" onclick="app.trash.push({{cod}}); app.load_data();"></i>
+    </header>
+</article>
+{{/each}}

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/estilo.css">
+
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <header class="col-md-12">
+
+            <button type="button" class="btn btn-primary" onclick="app.export();">Exportar centros</button>
+        </header>
+    </div>
+    <div class="row">
+        <aside class="col-md-9 " id="sort">
+        <h3>Ordear</h3>
+        <form class="inline-form">
+            <button type="button" class="btn btn-primary" onclick="app.sort_enabled_method='time';app.load_data();">Ordenar por tiempo</button>
+            <button type="button" class="btn btn-primary" onclick="app.sort_enabled_method='distance';app.load_data();">Ordenar por distancia</button>
+            <button type="button" class="btn btn-primary" onclick="app.sort_enabled_method='nome';app.load_data();">Ordenar por nome</button>
+        </form>
+        </aside>
+    </div>
+    <div class="row">
+        <aside class="col-md-3" id="filters">
+            <h3>Filtrar</h3>
+            <form action="">
+                <h5>Provincias</h5>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="acoruna" id="acoruna-checkbox" type="checkbox" checked>
+                    A Coruña
+                  </label>
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="lugo" id="lugo-checkbox" type="checkbox" checked>
+                    Lugo
+                  </label>
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="ourense" id="ourense-checkbox" type="checkbox" checked>
+                    Ourense
+                  </label>
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="pontevedra" id="pontevedra-checkbox" type="checkbox" checked>
+                    Pontevedra
+                  </label>
+                </div>
+                <h5>Estudos</h5>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="eso" id="eso-checkbox" type="checkbox" checked>
+                    ESO
+                  </label>
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="bac" id="bac-checkbox" type="checkbox" checked>
+                    BAC
+                  </label>
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="fp" id="fp-checkbox" type="checkbox" checked>
+                    FP
+                  </label>
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="esa" id="esa-checkbox" type="checkbox" checked>
+                    ESO de Adultos
+                  </label>
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="baca" id="baca-checkbox" type="checkbox" checked>
+                    BAC de Adultos
+                  </label>
+                </div>
+                <h5>Tipo de Centro</h5>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="ies" id="ies-checkbox" type="checkbox" checked>
+                    IES
+                  </label>
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="cpi" id="cpi-checkbox" type="checkbox" checked>
+                    CPI
+                  </label>
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="cifp" id="cifp-checkbox" type="checkbox" checked>
+                    CIFP
+                  </label>
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="cee" id="cee-checkbox" type="checkbox" checked>
+                    CEE
+                  </label>
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="epapu" id="epapu-checkbox" type="checkbox" checked>
+                    EPAPU
+                  </label>
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="cfea" id="cfea-checkbox" type="checkbox" checked>
+                    CFEA
+                  </label>
+                </div>
+            </form>
+        </aside>
+        <main class="col-md-9" id="list"></main>
+    </div>
+</div>
+
+<script src="js/db/centros-galicia.js" charset="utf-8"></script>
+<script src="js/db.js" charset="utf-8"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.10/handlebars.runtime.js" charset="utf-8"></script>
+<script src="js/handlebars/centros.handlebars.js" charset="utf-8"></script>
+<script src="js/app.js" charset="utf-8"></script>
+<script>
+    app.load_data();
+    $("#filters>form input").change(app.load_data);
+    $("main#list").sortable({
+        handle: ".sortable-handle"
+    });
+</script>
+</body>
+</html>
