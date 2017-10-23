@@ -1,19 +1,25 @@
 (function() {
   var template = Handlebars.template, templates = Handlebars.templates = Handlebars.templates || {};
 templates['centros'] = template({"1":function(container,depth0,helpers,partials,data) {
-    var helper, alias1=depth0 != null ? depth0 : {}, alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
+    var stack1, helper, alias1=depth0 != null ? depth0 : {}, alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 
   return "<article class=\"centro\" data-cod-centro=\""
     + alias4(((helper = (helper = helpers.cod || (depth0 != null ? depth0.cod : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"cod","hash":{},"data":data}) : helper)))
-    + "\">\n    <header>\n        <h4>"
+    + "\">\n    <header class=\"row\">\n        <div class=\"col-sm-8\">\n            <h4>"
     + alias4(((helper = (helper = helpers.nombre || (depth0 != null ? depth0.nombre : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"nombre","hash":{},"data":data}) : helper)))
-    + "</h4>\n        <div class=\"pull-right\">\n            <div>"
+    + "</h4>\n            <span class=\"codigo\">"
+    + alias4(((helper = (helper = helpers.cod || (depth0 != null ? depth0.cod : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"cod","hash":{},"data":data}) : helper)))
+    + "</span>\n        </div>\n        <div class=\"col-sm-3\">\n            <div>"
     + alias4(((helper = (helper = helpers.concello || (depth0 != null ? depth0.concello : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"concello","hash":{},"data":data}) : helper)))
     + "</div>\n            <div>"
     + alias4(((helper = (helper = helpers.provincia || (depth0 != null ? depth0.provincia : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"provincia","hash":{},"data":data}) : helper)))
-    + "</div>\n        </div>\n        <i class=\"fa fa-arrows-alt sortable-handle\" aria-hidden=\"true\"></i>\n        <i class=\"fa fa-trash\" aria-hidden=\"true\" onclick=\"app.trash.push("
+    + "</div>\n        </div>\n        <div class=\"col-sm-1\">\n            <i class=\"fa fa-arrows-alt sortable-handle\" aria-hidden=\"true\"></i>\n            <i class=\"fa fa-trash\" aria-hidden=\"true\" onclick=\"app.trash.push("
     + alias4(((helper = (helper = helpers.cod || (depth0 != null ? depth0.cod : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"cod","hash":{},"data":data}) : helper)))
-    + "); app.load_data();\"></i>\n    </header>\n</article>\n";
+    + "); app.load_data();\"></i>\n        </div>\n    </header>\n    <section class=\"row\">\n        <div class=\"col-md-2\">\n            <span>"
+    + alias4((helpers.prettyDistance || (depth0 && depth0.prettyDistance) || alias2).call(alias1,((stack1 = (depth0 != null ? depth0.osm : depth0)) != null ? stack1.distancia : stack1),{"name":"prettyDistance","hash":{},"data":data}))
+    + "</span>\n        </div>\n        <div class=\"col-md-2\">\n            <span>"
+    + alias4((helpers.prettyTime || (depth0 && depth0.prettyTime) || alias2).call(alias1,((stack1 = (depth0 != null ? depth0.osm : depth0)) != null ? stack1.tiempo : stack1),{"name":"prettyTime","hash":{},"data":data}))
+    + "</span>\n        </div>\n    </section>\n</article>\n";
 },"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1;
 

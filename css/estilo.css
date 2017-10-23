@@ -6,3 +6,10 @@ article.centro {
     padding: 0.5em;
     background-color: #ddd;
 }
+
+code.codigos {
+    display: block;
+    height: 200px;
+    overflow: scroll;
+    margin: 1em;
+}

@@ -1,13 +1,26 @@
 {{#each centros}}
 <article class="centro" data-cod-centro="{{cod}}">
-    <header>
-        <h4>{{nombre}}</h4>
-        <div class="pull-right">
+    <header class="row">
+        <div class="col-sm-8">
+            <h4>{{nombre}}</h4>
+            <span class="codigo">{{cod}}</span>
+        </div>
+        <div class="col-sm-3">
             <div>{{concello}}</div>
             <div>{{provincia}}</div>
         </div>
-        <i class="fa fa-arrows-alt sortable-handle" aria-hidden="true"></i>
-        <i class="fa fa-trash" aria-hidden="true" onclick="app.trash.push({{cod}}); app.load_data();"></i>
+        <div class="col-sm-1">
+            <i class="fa fa-arrows-alt sortable-handle" aria-hidden="true"></i>
+            <i class="fa fa-trash" aria-hidden="true" onclick="app.trash.push({{cod}}); app.load_data();"></i>
+        </div>
     </header>
+    <section class="row">
+        <div class="col-md-2">
+            <span>{{prettyDistance osm.distancia}}</span>
+        </div>
+        <div class="col-md-2">
+            <span>{{prettyTime osm.tiempo}}</span>
+        </div>
+    </section>
 </article>
 {{/each}}

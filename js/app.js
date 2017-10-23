@@ -20,6 +20,14 @@ app.sort_methods = {
     },
 };
 
+app.export = function () {
+    var codigos = $.map($("main#list>article"), function (centro) {return centro.dataset.codCentro;}).join(" ");
+    $("#modal").html(Handlebars.templates.modalexport({
+        paste: codigos
+    }));
+    $('#modal').iziModal('open');
+};
+
 app._function_update_distancias = function (index, callback) {
         return function (data) {
             for (var j = index; j < index + data.distance.length -1; j++){
