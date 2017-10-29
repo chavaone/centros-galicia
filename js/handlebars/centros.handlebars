@@ -14,13 +14,16 @@
             <i class="fa fa-trash" aria-hidden="true" onclick="app.trash.push({{cod}}); app.load_data();"></i>
         </div>
     </header>
-    <section class="row">
-        <div class="col-md-2">
-            <span>{{prettyDistance osm.distancia}}</span>
-        </div>
-        <div class="col-md-2">
-            <span>{{prettyTime osm.tiempo}}</span>
-        </div>
+
+    <section class="row osm align-items-end">
+        {{#if osm}}
+            <div class="col col-md-2">
+                <img width="25" src="img/distanceicon.png" alt="Distancia en linea recta" /><span>{{prettyDistance osm.distancia}}</span>
+            </div>
+            <div class="col col-md-2">
+                <img width="25" src="img/timeicon.png" alt="Tiempo en coche" /><span>{{prettyTime osm.tiempo}}</span>
+            </div>
+        {{/if}}
     </section>
 </article>
 {{/each}}

@@ -28,7 +28,7 @@ Handlebars.registerHelper("prettyTime", function (seconds) {
 Handlebars.registerHelper("prettyDistance", function (distance) {
 
     if (distance < 1) {
-        return (distance * 1000).toString() + " m.";
+        return (Math.floor(distance * 1000)).toString() + " m.";
     }
 
     return Math.floor(distance).toString() + " km.";

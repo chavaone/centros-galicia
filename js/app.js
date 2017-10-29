@@ -16,8 +16,9 @@ app.sort_methods = {
         return centro_a.osm.tiempo < centro_b.osm.tiempo ? -1 : 1;
     },
     'distance' : function (centro_a, centro_b) {
+        if (! centro_a.osm.distancia || ! centro_b.osm.distancia) return 0;
         return centro_a.osm.distancia < centro_b.osm.distancia ? -1 : 1;
-    },
+    }
 };
 
 app.export = function () {
@@ -28,36 +29,38 @@ app.export = function () {
     $('#modal').iziModal('open');
 };
 
-app._function_update_distancias = function (index, callback) {
-        return function (data) {
-            for (var j = index; j < index + data.distance.length -1; j++){
-                app.centros[j].osm = {
-                    tiempo: data.time[j-index+1],
-                    distancia: data.distance[j-index+1]
-                };
-            }
-            callback();
-        };
+app.get_osm = function (lat, long, callback) {
+    var localizaciones = app.centros.map(function(centro) {
+        return centro.coordenadas.lon.toString()  + "," +  centro.coordenadas.lat.toString();
+    });
+    $.ajax({
+        method: "GET",
+        url: "https://osrm.aquelando.info/table/v1/driving/" + long.toString() + "," +  lat.toString() + ";" + localizaciones.join(";"),
+        data: {
+            sources: 0
+        }
+    }).done(function(data) {
+
+        for (var i = 1; i < data.destinations.length; i++) {
+            app.centros[i-1].osm = {
+                tiempo: data.durations[0][i],
+                distancia: app.calcular_distancia_coordenadas(lat, long, app.centros[i-1].coordenadas.lat, app.centros[i-1].coordenadas.lon)
+            };
+        }
+        callback();
+    });
 };
 
-app.get_distancias = function (lat, long, callback) {
-    var search_local;
-    var end;
-    var localizaciones = app.centros.map(function(centro) {
-        return centro.coordenadas.lat.toString() + "," + centro.coordenadas.lon.toString();
-    });
+app.calcular_distancia_coordenadas = function(lat1, lon1, lat2, lon2) {
+  var R = 6371; // Radius of the earth in km
+  var dLat = (lat2 - lat1) * Math.PI / 180;  // deg2rad below
+  var dLon = (lon2 - lon1) * Math.PI / 180;
+  var a =
+     0.5 - Math.cos(dLat)/2 +
+     Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+     (1 - Math.cos(dLon))/2;
 
-    for (var index = 0; index < localizaciones.length; index = index + 99) {
-        end = index+99 < localizaciones.length ? index + 99 : localizaciones.length;
-        search_local = [lat.toString() + "," + long.toString()].concat(localizaciones.slice(index, end));
-        $.ajax({
-            method: "POST",
-            url:    "http://www.mapquestapi.com/directions/v2/routematrix?key=JsCa8woMcgAnVKccq8Qww0c1wLx7JNmd",
-            data:   JSON.stringify({"locations": search_local}),
-            dataType: "json",
-            contentType: "application/json"
-        }).done(app._function_update_distancias(index, callback));
-    }
+  return R * 2 * Math.asin(Math.sqrt(a));
 };
 
 app.sort = function (centros) {
@@ -67,7 +70,7 @@ app.sort = function (centros) {
                 lat: pos.coords.latitude,
                 long: pos.coords.longitude
             };
-            app.get_distancias(app.position.lat, app.position.long, app.load_data);
+            app.get_osm(app.position.lat, app.position.long, app.load_data);
         });
         return centros;
     }

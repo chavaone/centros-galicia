@@ -13,3 +13,20 @@ code.codigos {
     overflow: scroll;
     margin: 1em;
 }
+
+.osm img {
+    margin-right: 0.2em;
+}
+
+.modal-content {
+    padding: 2em;
+}
+
+.modal-content p{
+    text-align: justify;
+    text-indent: 1em;
+}
+
+.modal-content p a{
+text-indent: 0;
+}
