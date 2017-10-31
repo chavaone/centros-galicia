@@ -5622,7 +5622,7 @@ var db_centros_galicia_raw = [
     },
     {
         "cod": 15032935,
-        "nombre": "IES de Culleredo",
+        "nombre": "IES Rego de Trabe",
         "enderezo": "Avenida de Rutis",
         "concello": "Culleredo",
         "provincia": "A Coruña",
