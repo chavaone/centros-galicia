@@ -5,18 +5,18 @@ app.trash = [];
 
 app.centros = [];
 
-app.sort_enabled_method = "nome";
+app.sort_enabled_method = "none";
 
 app.sort_methods = {
     'nome' : function (centro_a, centro_b) {
         return centro_a.nombre.localeCompare(centro_b.nombre);
     },
     'time' : function (centro_a, centro_b) {
-        if (! centro_a.osm.tiempo || ! centro_b.osm.tiempo) return 0;
+        if (! centro_a.osm || ! centro_b.osm || ! centro_a.osm.tiempo || ! centro_b.osm.tiempo) return 0;
         return centro_a.osm.tiempo < centro_b.osm.tiempo ? -1 : 1;
     },
     'distance' : function (centro_a, centro_b) {
-        if (! centro_a.osm.distancia || ! centro_b.osm.distancia) return 0;
+        if (! centro_a.osm || ! centro_b.osm || ! centro_a.osm.distancia || ! centro_b.osm.distancia) return 0;
         return centro_a.osm.distancia < centro_b.osm.distancia ? -1 : 1;
     }
 };
@@ -30,24 +30,37 @@ app.export = function () {
 };
 
 app.get_osm = function (lat, long, callback) {
-    var localizaciones = app.centros.map(function(centro) {
-        return centro.coordenadas.lon.toString()  + "," +  centro.coordenadas.lat.toString();
-    });
-    $.ajax({
-        method: "GET",
-        url: "https://osrm.aquelando.info/table/v1/driving/" + long.toString() + "," +  lat.toString() + ";" + localizaciones.join(";"),
-        data: {
-            sources: 0
-        }
-    }).done(function(data) {
+    var request_max_size = 300,
+        ajax_calls = [],
+        localizaciones = "";
 
-        for (var i = 1; i < data.destinations.length; i++) {
-            app.centros[i-1].osm = {
-                tiempo: data.durations[0][i],
-                distancia: app.calcular_distancia_coordenadas(lat, long, app.centros[i-1].coordenadas.lat, app.centros[i-1].coordenadas.lon)
-            };
+    for (var i = 0; i < app.centros.length; i += request_max_size) {
+        localizaciones = app.centros.slice(i, i + request_max_size - 1).map(function(centro) {
+            return centro.coordenadas.lon.toString()  + "," +  centro.coordenadas.lat.toString();
+        });
+        ajax_calls.push(
+            $.ajax({
+                method: "GET",
+                url: "https://osrm.aquelando.info/table/v1/driving/" + long.toString() + "," +  lat.toString() + ";" + localizaciones.join(";"),
+                data: {
+                    sources: 0
+                }
+            })
+        );
+    }
+
+    $.when.apply($, ajax_calls).then(function() {
+        for (var i = 0; i < arguments.length; i++){
+            for(j = 0; j < arguments[i][0].durations[0].length - 1; j++) {
+                app.centros[i*300 + j].osm = {
+                    tiempo: arguments[i][0].durations[0][j+1],
+                    distancia: app.calcular_distancia_coordenadas(lat, long, app.centros[i*300 + j].coordenadas.lat, app.centros[i*300 + j].coordenadas.lon)
+                };
+            }
         }
         callback();
+    }, function(e) {
+         console.log("My ajax failed");
     });
 };
 
@@ -64,6 +77,9 @@ app.calcular_distancia_coordenadas = function(lat1, lon1, lat2, lon2) {
 };
 
 app.sort = function (centros) {
+    if (app.sort_enabled_method == "none")
+        return centros;
+
     if (! app.position && (app.sort_enabled_method == "time" || app.sort_enabled_method == "distance")) {
         navigator.geolocation.getCurrentPosition (function(pos) {
             app.position = {
@@ -74,6 +90,7 @@ app.sort = function (centros) {
         });
         return centros;
     }
+
     return centros.sort(app.sort_methods[app.sort_enabled_method]);
 };
 
@@ -88,7 +105,10 @@ app.filter = function (centros) {
     });
 
     filtered_centros = filtered_centros.filter(function (c) {
-        return  ($("#eso-checkbox").is(':checked') && c.ensinanzas.indexOf("eso") !== -1) ||
+        return  ($("#inf-checkbox").is(':checked') && c.ensinanzas.indexOf("inf") !== -1) ||
+                ($("#prim-checkbox").is(':checked') && c.ensinanzas.indexOf("prim") !== -1) ||
+                ($("#esp-checkbox").is(':checked') && c.ensinanzas.indexOf("esp") !== -1) ||
+                ($("#eso-checkbox").is(':checked') && c.ensinanzas.indexOf("eso") !== -1) ||
                 ($("#bac-checkbox").is(':checked') && c.ensinanzas.indexOf("bac") !== -1) ||
                 ($("#fp-checkbox").is(':checked') &&  c.ensinanzas.indexOf("fp") !== -1) ||
                 ($("#esa-checkbox").is(':checked') &&  c.ensinanzas.indexOf("eso") !== -1) ||
@@ -100,7 +120,9 @@ app.filter = function (centros) {
     });
 
     filtered_centros = filtered_centros.filter(function (c) {
-        return  ($("#ies-checkbox").is(':checked') && c.nombre.startsWith("IES")) ||
+        return  ($("#ceip-checkbox").is(':checked') && c.nombre.startsWith("CEIP")) ||
+                ($("#eei-checkbox").is(':checked') && c.nombre.startsWith("EEI")) ||
+                ($("#ies-checkbox").is(':checked') && c.nombre.startsWith("IES")) ||
                 ($("#cifp-checkbox").is(':checked') && c.nombre.startsWith("CIFP")) ||
                 ($("#cpi-checkbox").is(':checked') && c.nombre.startsWith("CPI")) ||
                 ($("#cee-checkbox").is(':checked') && c.nombre.startsWith("CEE")) ||
@@ -115,7 +137,8 @@ app.load_data = function () {
     if (app.centros)
         app.centros = db.get_centros();
 
-    var centros = app.filter(app.centros);
+    var centros = app.centros;
+    centros = app.filter(centros);
     centros = app.sort(centros);
 
     var innerHTML = Handlebars.templates.centros({

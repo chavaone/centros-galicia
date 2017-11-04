@@ -63,6 +63,18 @@
                 <h5>Estudos</h5>
                 <div class="form-check">
                   <label class="form-check-label">
+                    <input class="form-check-input" name="inf" id="inf-checkbox" type="checkbox" checked>
+                    Infantil
+                  </label>
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="prim" id="prim-checkbox" type="checkbox" checked>
+                    Primaria
+                  </label>
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label">
                     <input class="form-check-input" name="eso" id="eso-checkbox" type="checkbox" checked>
                     ESO
                   </label>
@@ -84,14 +96,32 @@
                     <input class="form-check-input" name="esa" id="esa-checkbox" type="checkbox" checked>
                     ESO de Adultos
                   </label>
-                </div>
+              </div>
                 <div class="form-check">
                   <label class="form-check-label">
                     <input class="form-check-input" name="baca" id="baca-checkbox" type="checkbox" checked>
                     BAC de Adultos
                   </label>
                 </div>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="esp" id="esp-checkbox" type="checkbox" checked>
+                    Educación Especial
+                  </label>
+                </div>
                 <h5>Tipo de Centro</h5>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="ceip" id="ceip-checkbox" type="checkbox" checked>
+                    CEIP
+                  </label>
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label">
+                    <input class="form-check-input" name="eei" id="eei-checkbox" type="checkbox" checked>
+                    EEI
+                  </label>
+                </div>
                 <div class="form-check">
                   <label class="form-check-label">
                     <input class="form-check-input" name="ies" id="ies-checkbox" type="checkbox" checked>
@@ -136,8 +166,7 @@
 
 <div id="modal">
 </div>
-
-<script src="js/db/centros-galicia.js" charset="utf-8"></script>
+<script src="js/db/centros.min.js" charset="utf-8"></script>
 <script src="js/db.js" charset="utf-8"></script>
 <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
@@ -150,17 +179,20 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/izimodal/1.5.1/js/iziModal.min.js" charset="utf-8"></script>
 <script src="js/app.js" charset="utf-8"></script>
 <script>
-    app.load_data();
-    $("#filters>form input").change(app.load_data);
-    $("main#list").sortable({
-        handle: ".sortable-handle"
+    $(window).on('load', function() {
+         $("#filters>form input").change(app.load_data);
+         $("main#list").sortable({
+             handle: ".sortable-handle"
+         });
+         $("#modal").iziModal({
+             padding:  "2em",
+             top: 100,
+             bottom: 100,
+             width: 800
+         });
+         app.load_data();
     });
-    $("#modal").iziModal({
-        padding:  "2em",
-        top: 100,
-        bottom: 100,
-        width: 800
-    });
+
 </script>
 </body>
 </html>
