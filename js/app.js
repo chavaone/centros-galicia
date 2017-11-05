@@ -122,6 +122,8 @@ app.filter = function (centros) {
     filtered_centros = filtered_centros.filter(function (c) {
         return  ($("#ceip-checkbox").is(':checked') && c.nombre.startsWith("CEIP")) ||
                 ($("#eei-checkbox").is(':checked') && c.nombre.startsWith("EEI")) ||
+                ($("#cep-checkbox").is(':checked') && c.nombre.startsWith("CEP")) ||
+                ($("#cra-checkbox").is(':checked') && c.nombre.startsWith("CRA")) ||
                 ($("#ies-checkbox").is(':checked') && c.nombre.startsWith("IES")) ||
                 ($("#cifp-checkbox").is(':checked') && c.nombre.startsWith("CIFP")) ||
                 ($("#cpi-checkbox").is(':checked') && c.nombre.startsWith("CPI")) ||
