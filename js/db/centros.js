@@ -3206,7 +3206,7 @@ var db_centros_galicia_raw = [
         "nombre": "CIFP Coroso",
         "enderezo": "Rúa dos Estudantes 5",
         "concello": "Ribeira",
-        "provincia": "Coruña (A)",
+        "provincia": "A Coruña",
         "cp": 15960,
         "tlf": 881866865,
         "coordenadas": {
@@ -3795,7 +3795,7 @@ var db_centros_galicia_raw = [
         "nombre": "CFEA de Sergude",
         "enderezo": "Sergude (San Breixo)",
         "concello": "Boqueixón",
-        "provincia": "Coruña (A)",
+        "provincia": "A Coruña",
         "cp": 15881,
         "tlf": 981511815,
         "coordenadas": {
@@ -4105,7 +4105,7 @@ var db_centros_galicia_raw = [
         "nombre": "CIFP Compostela",
         "enderezo": "Lamas de Abade s/n",
         "concello": "Santiago de Compostela",
-        "provincia": "Coruña (A)",
+        "provincia": "A Coruña",
         "cp": 15702,
         "tlf": 881866570,
         "coordenadas": {
@@ -4221,7 +4221,7 @@ var db_centros_galicia_raw = [
         "nombre": "CIFP Politécnico de Santiago",
         "enderezo": "Rúa Rosalia de Castro 133",
         "concello": "Santiago de Compostela",
-        "provincia": "Coruña (A)",
+        "provincia": "A Coruña",
         "cp": 15706,
         "tlf": 981522062,
         "coordenadas": {
@@ -4554,7 +4554,7 @@ var db_centros_galicia_raw = [
         "nombre": "CIFP Santiago",
         "enderezo": "Estrada San Paio do Monte",
         "concello": "Santiago de Compostela",
-        "provincia": "Coruña (A)",
+        "provincia": "A Coruña",
         "cp": 15898,
         "tlf": 881867650,
         "coordenadas": {
@@ -5875,8 +5875,8 @@ var db_centros_galicia_raw = [
         "cod": 15027800,
         "nombre": "IES Imaxe e Son",
         "enderezo": "Rúa Someso 6",
-        "concello": "Coruña (A)",
-        "provincia": "Coruña (A)",
+        "concello": "A Coruña",
+        "provincia": "A Coruña",
         "cp": 15008,
         "tlf": 981173181,
         "coordenadas": {
@@ -5893,8 +5893,8 @@ var db_centros_galicia_raw = [
         "cod": 15024513,
         "nombre": "CIFP Someso",
         "enderezo": "Rúa Someso 6",
-        "concello": "Coruña (A)",
-        "provincia": "Coruña (A)",
+        "concello": "A Coruña",
+        "provincia": "A Coruña",
         "cp": 15008,
         "tlf": 881880001,
         "coordenadas": {
@@ -5911,7 +5911,7 @@ var db_centros_galicia_raw = [
         "cod": 15005385,
         "nombre": "CEE María Mariño",
         "enderezo": "Rúa As Xubias 15",
-        "concello": "Coruña (A)",
+        "concello": "A Coruña",
         "provincia": "A Coruña",
         "cp": 15006,
         "tlf": 981174273,
@@ -5987,7 +5987,7 @@ var db_centros_galicia_raw = [
         "cod": 15005579,
         "nombre": "IES Plurilingüe Elviña",
         "enderezo": "Rúa San José de Calasanz 6",
-        "concello": "Coruña (A)",
+        "concello": "A Coruña",
         "provincia": "A Coruña",
         "cp": 15008,
         "tlf": 981242911,
@@ -6006,7 +6006,7 @@ var db_centros_galicia_raw = [
         "cod": 15005336,
         "nombre": "CEE Nosa Señora do Rosario",
         "enderezo": "Rúa Ronda Camilo Jose Cela 2",
-        "concello": "Coruña (A)",
+        "concello": "A Coruña",
         "provincia": "A Coruña",
         "cp": 15008,
         "tlf": 981283496,
@@ -6024,7 +6024,7 @@ var db_centros_galicia_raw = [
         "cod": 15005002,
         "nombre": "IES Ramón Otero Pedrayo",
         "enderezo": "Avenida Monelos 10 A",
-        "concello": "Coruña (A)",
+        "concello": "A Coruña",
         "provincia": "A Coruña",
         "cp": 15008,
         "tlf": 981286854,
@@ -6042,7 +6042,7 @@ var db_centros_galicia_raw = [
         "cod": 15025611,
         "nombre": "IES Monte das Moas",
         "enderezo": "Rúa José María Hernansaez 23",
-        "concello": "Coruña (A)",
+        "concello": "A Coruña",
         "provincia": "A Coruña",
         "cp": 15009,
         "tlf": 981284377,
@@ -6061,7 +6061,7 @@ var db_centros_galicia_raw = [
         "cod": 15005245,
         "nombre": "IES Monelos",
         "enderezo": "Rúa Montes 62",
-        "concello": "Coruña (A)",
+        "concello": "A Coruña",
         "provincia": "A Coruña",
         "cp": 15009,
         "tlf": 881880041,
@@ -6080,7 +6080,7 @@ var db_centros_galicia_raw = [
         "cod": 15027770,
         "nombre": "IES A Sardiñeira",
         "enderezo": "Avenida da Sardiñeira 41",
-        "concello": "Coruña (A)",
+        "concello": "A Coruña",
         "provincia": "A Coruña",
         "cp": 15008,
         "tlf": 881960150,
@@ -6100,7 +6100,7 @@ var db_centros_galicia_raw = [
         "cod": 15005269,
         "nombre": "IES Urbano Lugrís",
         "enderezo": "Avenida de Arteixo",
-        "concello": "Coruña (A)",
+        "concello": "A Coruña",
         "provincia": "A Coruña",
         "cp": 15007,
         "tlf": 881960715,
@@ -6120,7 +6120,7 @@ var db_centros_galicia_raw = [
         "cod": 15005397,
         "nombre": "IES Fernando Wirtz Suárez",
         "enderezo": "Rúa Cabaleiros 1",
-        "concello": "Coruña (A)",
+        "concello": "A Coruña",
         "provincia": "A Coruña",
         "cp": 15006,
         "tlf": 881960260,
@@ -6142,8 +6142,8 @@ var db_centros_galicia_raw = [
         "cod": 15027897,
         "nombre": "CIFP Paseo das Pontes",
         "enderezo": "Rúa San Pedro de Mezonzo 4",
-        "concello": "Coruña (A)",
-        "provincia": "Coruña (A)",
+        "concello": "A Coruña",
+        "provincia": "A Coruña",
         "cp": 15004,
         "tlf": 981160196,
         "coordenadas": {
@@ -6160,7 +6160,7 @@ var db_centros_galicia_raw = [
         "cod": 15005233,
         "nombre": "IES Agra do Orzán",
         "enderezo": "Rúa Alcalde Liaño Flores s/n",
-        "concello": "Coruña (A)",
+        "concello": "A Coruña",
         "provincia": "A Coruña",
         "cp": 15010,
         "tlf": 881880080,
@@ -6180,7 +6180,7 @@ var db_centros_galicia_raw = [
         "cod": 15005221,
         "nombre": "IES Plurilingüe Eusebio da Guarda",
         "enderezo": "Praza de Pontevedra 20",
-        "concello": "Coruña (A)",
+        "concello": "A Coruña",
         "provincia": "A Coruña",
         "cp": 15003,
         "tlf": 881960060,
@@ -6242,7 +6242,7 @@ var db_centros_galicia_raw = [
         "cod": 15026421,
         "nombre": "IES Plurilingüe Rafael Dieste",
         "enderezo": "Ronda de Outeiro 334",
-        "concello": "Coruña (A)",
+        "concello": "A Coruña",
         "provincia": "A Coruña",
         "cp": 15011,
         "tlf": 981277911,
@@ -6261,7 +6261,7 @@ var db_centros_galicia_raw = [
         "cod": 15005211,
         "nombre": "IES Salvador de Madariaga",
         "enderezo": "Rúa Paseo de Ronda 49",
-        "concello": "Coruña (A)",
+        "concello": "A Coruña",
         "provincia": "A Coruña",
         "cp": 15011,
         "tlf": 881960235,
@@ -6282,7 +6282,7 @@ var db_centros_galicia_raw = [
         "cod": 15005257,
         "nombre": "IES Ramón Menéndez Pidal",
         "enderezo": "Rúa Instituto Zalaeta",
-        "concello": "Coruña (A)",
+        "concello": "A Coruña",
         "provincia": "A Coruña",
         "cp": 15002,
         "tlf": 981203000,
@@ -6320,7 +6320,7 @@ var db_centros_galicia_raw = [
         "cod": 15025621,
         "nombre": "EPAPU Eduardo Pondal",
         "enderezo": "Rúa da Educación 3 2º andar",
-        "concello": "Coruña (A)",
+        "concello": "A Coruña",
         "provincia": "A Coruña",
         "cp": 15011,
         "tlf": 981278035,
@@ -6382,7 +6382,7 @@ var db_centros_galicia_raw = [
         "cod": 15026716,
         "nombre": "IES Plurilingüe Adormideras",
         "enderezo": "Rúa Juan Sebastián Elcano 28",
-        "concello": "Coruña (A)",
+        "concello": "A Coruña",
         "provincia": "A Coruña",
         "cp": 15002,
         "tlf": 881880086,
@@ -6401,8 +6401,8 @@ var db_centros_galicia_raw = [
         "cod": 15022607,
         "nombre": "CIFP Ánxel Casal - Monte Alto",
         "enderezo": "Paseo Marítimo 47",
-        "concello": "Coruña (A)",
-        "provincia": "Coruña (A)",
+        "concello": "A Coruña",
+        "provincia": "A Coruña",
         "cp": 15002,
         "tlf": 881960122,
         "coordenadas": {
@@ -6555,7 +6555,7 @@ var db_centros_galicia_raw = [
         "nombre": "CIFP Rodolfo Ucha Piñeiro",
         "enderezo": "Avenida Castelao, 64 (Caranza)",
         "concello": "Ferrol",
-        "provincia": "Coruña (A)",
+        "provincia": "A Coruña",
         "cp": 15406,
         "tlf": 881930145,
         "coordenadas": {
@@ -6613,7 +6613,7 @@ var db_centros_galicia_raw = [
         "nombre": "Cen. Pub. Esc. Especialistas Estación Naval A Graña, ESENGRA",
         "enderezo": "Rúa Estación Naval de la Graña s/n",
         "concello": "Ferrol",
-        "provincia": "Coruña (A)",
+        "provincia": "A Coruña",
         "cp": 15490,
         "tlf": 981336093,
         "coordenadas": {
@@ -6631,7 +6631,7 @@ var db_centros_galicia_raw = [
         "nombre": "Cen. Pub. Esc. Especialistas Antonio Escaño",
         "enderezo": "Rúa Tejeras s/n",
         "concello": "Ferrol",
-        "provincia": "Coruña (A)",
+        "provincia": "A Coruña",
         "cp": 15490,
         "tlf": 981399120,
         "coordenadas": {
@@ -6707,7 +6707,7 @@ var db_centros_galicia_raw = [
         "nombre": "CIFP Ferrolterra",
         "enderezo": "Avenida Ramón y Cajal s/n",
         "concello": "Ferrol",
-        "provincia": "Coruña (A)",
+        "provincia": "A Coruña",
         "cp": 15403,
         "tlf": 981333107,
         "coordenadas": {
@@ -7117,74 +7117,12 @@ var db_centros_galicia_raw = [
         "fp"
     	]
     },
-/*
-    {
-        "cod": 15990080,
-        "nombre": "CREDO da Coruña",
-        "enderezo": "#N/A",
-        "concello": "Culleredo",
-        "provincia": "#N/A",
-        "cp": "#N/A",
-        "tlf": "#N/A",
-		"codlocal": 150310202,
-        "local": "Burgo, O",
-        "ensinanzas": []
-    },
-    {
-        "cod": 27007260,
-        "nombre": "CFEA de Monforte de Lemos",
-        "enderezo": "#N/A",
-        "concello": "Monforte de Lemos",
-        "provincia": "#N/A",
-        "cp": "#N/A",
-        "tlf": "#N/A",
-		"codlocal": 270311101,
-        "local": "Monforte de Lemos",
-        "ensinanzas": []
-    },
-    {
-        "cod": 32990081,
-        "nombre": "CREDO de Ourense",
-        "enderezo": "#N/A",
-        "concello": "Ourense",
-        "provincia": "#N/A",
-        "cp": "#N/A",
-        "tlf": "#N/A",
-		"codlocal": 320541201,
-        "local": "Ourense",
-        "ensinanzas": []
-    },
-    {
-        "cod": 36017201,
-        "nombre": "CEE Príncipe Felipe",
-        "enderezo": "#N/A",
-        "concello": "Pontevedra",
-        "provincia": "#N/A",
-        "cp": "#N/A",
-        "tlf": "#N/A",
-		"codlocal": 360381301,
-        "local": "Pontevedra",
-        "ensinanzas": []
-    },
-    {
-        "cod": 36990079,
-        "nombre": "CREDO de Vigo",
-        "enderezo": "#N/A",
-        "concello": "Vigo",
-        "provincia": "#N/A",
-        "cp": "#N/A",
-        "tlf": "#N/A",
-		"codlocal": 360573101,
-        "local": "Vigo",
-        "ensinanzas": []
-    }
-*/
   {
     "cod" : 15027253,
     "nombre" : "CEIP Isaac Díaz Pardo",
     "enderezo" : "Avenida Ribados, s/n (Carcabelos)",
     "concello" : "Culleredo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15670,
     "tlf" : 881880608,
     "coordenadas": {
@@ -7202,7 +7140,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Curtis",
     "enderezo" : "Rúa Alcalde Espiñeira s/n",
     "concello" : "Curtis",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15310,
     "tlf" : 881880647,
     "coordenadas": {
@@ -7220,7 +7158,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Teixeiro",
     "enderezo" : "Rúa Crego Barbazán 18",
     "concello" : "Curtis",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15310,
     "tlf" : 881880644,
     "coordenadas": {
@@ -7238,7 +7176,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI Plurilingüe Eusebio Lorenzo Baleirón",
     "enderezo" : "Tarrio",
     "concello" : "Dodro",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15981,
     "tlf" : 981802205,
     "coordenadas": {
@@ -7255,7 +7193,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Santa Eulalia de Dumbría",
     "enderezo" : "Dumbría (Santa Baia)",
     "concello" : "Dumbría",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15151,
     "tlf" : 881880654,
     "coordenadas": {
@@ -7273,7 +7211,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe de Centieiras",
     "enderezo" : "Rúa Centieiras s/n",
     "concello" : "Fene",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15500,
     "tlf" : 881930133,
     "coordenadas": {
@@ -7291,7 +7229,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI A Xunqueira",
     "enderezo" : "Avenida do Mar s/n",
     "concello" : "Fene",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15500,
     "tlf" : 881930110,
     "coordenadas": {
@@ -7309,7 +7247,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe Os Casais",
     "enderezo" : "Lugar da Armada",
     "concello" : "Fene",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15520,
     "tlf" : 881930124,
     "coordenadas": {
@@ -7327,7 +7265,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe O Ramo",
     "enderezo" : "Rúa Pablo Ares Feal, 28 (O Ramo)",
     "concello" : "Fene",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15528,
     "tlf" : 881930137,
     "coordenadas": {
@@ -7345,7 +7283,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Sillobre",
     "enderezo" : "Rúa Mestre Lois Rodríguez Calvo s/n",
     "concello" : "Fene",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15509,
     "tlf" : 881930129,
     "coordenadas": {
@@ -7363,7 +7301,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEE Terra de Ferrol",
     "enderezo" : "San Pedro de Leixa s/n",
     "concello" : "Ferrol",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15405,
     "tlf" : 881930187,
     "coordenadas": {
@@ -7381,7 +7319,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP A Laxe",
     "enderezo" : "Rúa A Torre, Valón",
     "concello" : "Ferrol",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15593,
     "tlf" : 881930326,
     "coordenadas": {
@@ -7399,7 +7337,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Manuel Masdías",
     "enderezo" : "Rúa Cuco Ruiz, s/n (Caranza)",
     "concello" : "Ferrol",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15406,
     "tlf" : 981327403,
     "coordenadas": {
@@ -7417,7 +7355,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe San Xoán de Filgueira",
     "enderezo" : "Rúa Campo de Chao s/n",
     "concello" : "Ferrol",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15405,
     "tlf" : 881938194,
     "coordenadas": {
@@ -7435,7 +7373,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Almirante Juan de Lángara y Huarte",
     "enderezo" : "Estrada de Catabois, 45-71",
     "concello" : "Ferrol",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15405,
     "tlf" : 981322905,
     "coordenadas": {
@@ -7453,7 +7391,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Ponzos",
     "enderezo" : "Rúa Ponzos s/n",
     "concello" : "Ferrol",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15404,
     "tlf" : 981370480,
     "coordenadas": {
@@ -7471,7 +7409,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Cruceiro de Canido",
     "enderezo" : "Cruceiro de Canido s/n",
     "concello" : "Ferrol",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15401,
     "tlf" : 881930317,
     "coordenadas": {
@@ -7489,7 +7427,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Recimil",
     "enderezo" : "Vivendas Protexidas s/n",
     "concello" : "Ferrol",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15403,
     "tlf" : 881930312,
     "coordenadas": {
@@ -7507,7 +7445,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Isaac Peral",
     "enderezo" : "Avenida Mac Mahon s/n",
     "concello" : "Ferrol",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15403,
     "tlf" : 881930210,
     "coordenadas": {
@@ -7525,7 +7463,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Esteiro",
     "enderezo" : "Avenida de Vigo",
     "concello" : "Ferrol",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15403,
     "tlf" : 981352904,
     "coordenadas": {
@@ -7543,7 +7481,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Pazos",
     "enderezo" : "Serantes (San Salvador)",
     "concello" : "Ferrol",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15405,
     "tlf" : 881930322,
     "coordenadas": {
@@ -7561,7 +7499,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI de Ponte Carreira",
     "enderezo" : "Rúa do ensino, s/n - Ponte Carreira",
     "concello" : "Frades",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15686,
     "tlf" : 881880671,
     "coordenadas": {
@@ -7579,7 +7517,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Torrexallóns",
     "enderezo" : "Torrexallons",
     "concello" : "Laxe",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15119,
     "tlf" : 981735550,
     "coordenadas": {
@@ -7597,7 +7535,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI Plurilingüe Cabo da Area",
     "enderezo" : "Rúa Isidro Parga Pondal 45",
     "concello" : "Laxe",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15118,
     "tlf" : 881880709,
     "coordenadas": {
@@ -7615,7 +7553,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Ramón Otero Pedrayo",
     "enderezo" : "Rúa Buenos Aires s/n",
     "concello" : "Laracha (A)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15145,
     "tlf" : 881880686,
     "coordenadas": {
@@ -7633,7 +7571,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Alfredo Brañas",
     "enderezo" : "Rúa Porta Santa 19",
     "concello" : "Laracha (A)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15145,
     "tlf" : 881880700,
     "coordenadas": {
@@ -7651,7 +7589,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Caión",
     "enderezo" : "Rúa Insua s/n",
     "concello" : "Laracha (A)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15145,
     "tlf" : 881880694,
     "coordenadas": {
@@ -7669,7 +7607,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI Plurilingüe Cernadas de Castro",
     "enderezo" : "A Silva 12/14",
     "concello" : "Lousame",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15214,
     "tlf" : 881866801,
     "coordenadas": {
@@ -7687,7 +7625,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Joaquín Rodríguez Otero",
     "enderezo" : "Campo de Xaviña, s/n (Buño)",
     "concello" : "Malpica de Bergantiños",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15111,
     "tlf" : 881880740,
     "coordenadas": {
@@ -7705,7 +7643,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Milladoiro",
     "enderezo" : "Rúa VENTORRILLO s/n",
     "concello" : "Malpica de Bergantiños",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15113,
     "tlf" : 881880736,
     "coordenadas": {
@@ -7723,7 +7661,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI da Picota",
     "enderezo" : "A Picota s/n",
     "concello" : "Mazaricos",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15256,
     "tlf" : 881866091,
     "coordenadas": {
@@ -7741,7 +7679,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe de Pino de Val",
     "enderezo" : "Rúa Igrexa s/n",
     "concello" : "Mazaricos",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15256,
     "tlf" : 881866097,
     "coordenadas": {
@@ -7759,7 +7697,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Víctor Sáenz",
     "enderezo" : "San Cosme de Antes 35",
     "concello" : "Mazaricos",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15256,
     "tlf" : 881866101,
     "coordenadas": {
@@ -7777,7 +7715,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Martagona",
     "enderezo" : "Rúa Martagona s/n",
     "concello" : "Melide",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15800,
     "tlf" : 881866149,
     "coordenadas": {
@@ -7795,7 +7733,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Mestre Pastor Barral",
     "enderezo" : "Camiño Real s/n",
     "concello" : "Melide",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15800,
     "tlf" : 881866132,
     "coordenadas": {
@@ -7813,7 +7751,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Melide Nº 1",
     "enderezo" : "Rúa E.Alvarez Carballido 2",
     "concello" : "Melide",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15800,
     "tlf" : 881866136,
     "coordenadas": {
@@ -7831,7 +7769,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI de Xanceda",
     "enderezo" : "Lugar OS CORRILLOS",
     "concello" : "Mesía",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15685,
     "tlf" : 881880752,
     "coordenadas": {
@@ -7849,7 +7787,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Olas",
     "enderezo" : "Olas (San Lourenzo)",
     "concello" : "Mesía",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15685,
     "tlf" : 639527483,
     "coordenadas": {
@@ -7867,7 +7805,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI Visantoña",
     "enderezo" : "A Igrexa",
     "concello" : "Mesía",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15685,
     "tlf" : 881880762,
     "coordenadas": {
@@ -7885,7 +7823,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI Castro Baxoi",
     "enderezo" : "Rúa Marismas s/n",
     "concello" : "Miño",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15630,
     "tlf" : 881880765,
     "coordenadas": {
@@ -7903,7 +7841,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Bemantes",
     "enderezo" : "Bemantes",
     "concello" : "Miño",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15635,
     "tlf" : 981798068,
     "coordenadas": {
@@ -7921,7 +7859,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de San Ramón",
     "enderezo" : "Rúa Estrada da Feira, s/n (San Ramon)",
     "concello" : "Moeche",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15563,
     "tlf" : 881930330,
     "coordenadas": {
@@ -7939,7 +7877,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI Plurilingüe Virxe da Cela",
     "enderezo" : "O Xestal",
     "concello" : "Monfero",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15619,
     "tlf" : 981777606,
     "coordenadas": {
@@ -7957,7 +7895,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Unión Mugardesa",
     "enderezo" : "Avenida Francisco Yañez Badia 1",
     "concello" : "Mugardos",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15620,
     "tlf" : 881930341,
     "coordenadas": {
@@ -7975,7 +7913,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Santiago Apóstolo",
     "enderezo" : "Avenida Francisco Vizoso",
     "concello" : "Mugardos",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15626,
     "tlf" : 881930336,
     "coordenadas": {
@@ -7993,7 +7931,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Ramón de Artaza y Malvárez",
     "enderezo" : "Rúa Valdexeria s/n",
     "concello" : "Muros",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15259,
     "tlf" : 881867360,
     "coordenadas": {
@@ -8011,7 +7949,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe de Louro",
     "enderezo" : "Rúa Agra de Filgueira s/n",
     "concello" : "Muros",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15291,
     "tlf" : 981827753,
     "coordenadas": {
@@ -8029,7 +7967,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe Ricardo Tobío",
     "enderezo" : "Rúa Freixeiros 13",
     "concello" : "Muros",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15240,
     "tlf" : 981763584,
     "coordenadas": {
@@ -8047,7 +7985,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI do Feal",
     "enderezo" : "Rúa Río Seco (O Feal) s/n",
     "concello" : "Narón",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15572,
     "tlf" : 881938177,
     "coordenadas": {
@@ -8065,7 +8003,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe Virxe do Mar",
     "enderezo" : "Rúa Ilas Cíes 2",
     "concello" : "Narón",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15570,
     "tlf" : 881930383,
     "coordenadas": {
@@ -8083,7 +8021,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CRA de Narón",
     "enderezo" : "Lugar San Xiao s/n",
     "concello" : "Narón",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15578,
     "tlf" : 881930366,
     "coordenadas": {
@@ -8101,7 +8039,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe Ponte de Xubia",
     "enderezo" : "Rúa do Foro (Ponte de Xubia) 32",
     "concello" : "Narón",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15570,
     "tlf" : 881938190,
     "coordenadas": {
@@ -8119,7 +8057,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP A Gándara",
     "enderezo" : "Rúa Colmeote, s/n (Gandara)",
     "concello" : "Narón",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15570,
     "tlf" : 981386877,
     "coordenadas": {
@@ -8137,7 +8075,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP A Solaina",
     "enderezo" : "Rúa CARDENAL CISNEROS s/n",
     "concello" : "Narón",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15570,
     "tlf" : 881930373,
     "coordenadas": {
@@ -8155,7 +8093,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Piñeiros",
     "enderezo" : "Estrada de Castela (Piñeiros) s/n",
     "concello" : "Narón",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15570,
     "tlf" : 881930378,
     "coordenadas": {
@@ -8173,7 +8111,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Maciñeira",
     "enderezo" : "Rúa Estrada do Roxal, 17 (Maciñeira)",
     "concello" : "Neda",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15510,
     "tlf" : 881930402,
     "coordenadas": {
@@ -8191,7 +8129,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP San Xosé Obreiro",
     "enderezo" : "Travesa de Meiras, s/n (Meicende)",
     "concello" : "Arteixo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15140,
     "tlf" : 881880214,
     "coordenadas": {
@@ -8209,7 +8147,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Ponte dos Brozos",
     "enderezo" : "Avenida Arsenio Iglesias, 34 (Sabon)",
     "concello" : "Arteixo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15142,
     "tlf" : 981600249,
     "coordenadas": {
@@ -8227,7 +8165,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Arteixo",
     "enderezo" : "Avenida ARSENIO IGLESIAS 33 B",
     "concello" : "Arteixo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15142,
     "tlf" : 981641284,
     "coordenadas": {
@@ -8245,7 +8183,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI da Lagoa",
     "enderezo" : "Rúa A Lagoa s/m",
     "concello" : "Arteixo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15142,
     "tlf" : 981646930,
     "coordenadas": {
@@ -8263,7 +8201,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Galán",
     "enderezo" : "Rúa Miguel de Cervantes 21",
     "concello" : "Arteixo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15141,
     "tlf" : 881880903,
     "coordenadas": {
@@ -8281,7 +8219,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Larín de Arriba",
     "enderezo" : "Lugar Rexedoiros-Larín",
     "concello" : "Arteixo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15144,
     "tlf" : 981606212,
     "coordenadas": {
@@ -8299,7 +8237,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Rorís",
     "enderezo" : "Armentón (San Pedro)",
     "concello" : "Arteixo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15142,
     "tlf" : 981640238,
     "coordenadas": {
@@ -8317,7 +8255,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Arzúa",
     "enderezo" : "Rúa Baltasar Pardal s/n",
     "concello" : "Arzúa",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15810,
     "tlf" : 981500291,
     "coordenadas": {
@@ -8335,7 +8273,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI de San Vicente",
     "enderezo" : "Rúa Tadelle",
     "concello" : "Baña (A)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15863,
     "tlf" : 981886555,
     "coordenadas": {
@@ -8353,7 +8291,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Francisco Vales Villamarín",
     "enderezo" : "Rúa Carregal 4",
     "concello" : "Betanzos",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15300,
     "tlf" : 881880237,
     "coordenadas": {
@@ -8371,7 +8309,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI Armando Cotarelo Valledor",
     "enderezo" : "Campo do Rosario, s/n (Gandara)",
     "concello" : "Boimorto",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15818,
     "tlf" : 981516245,
     "coordenadas": {
@@ -8389,7 +8327,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI Plurilingüe Antonio Orza Couto",
     "enderezo" : "O Forte",
     "concello" : "Boqueixón",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15881,
     "tlf" : 881866783,
     "coordenadas": {
@@ -8407,7 +8345,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CRA de Boqueixón-Vedra Neira Vilas",
     "enderezo" : "Lugar Vilar, Centro Sociocultural Camilo José Cela s/n",
     "concello" : "Boqueixón",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15881,
     "tlf" : 616440471,
     "coordenadas": {
@@ -8425,7 +8363,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe de Pedrouzos",
     "enderezo" : "Paseo Pedrouzos s/n",
     "concello" : "Brión",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15865,
     "tlf" : 881866078,
     "coordenadas": {
@@ -8443,7 +8381,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI As Revoltas",
     "enderezo" : "Lugar A Carballa 17",
     "concello" : "Cabana de Bergantiños",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15115,
     "tlf" : 881880283,
     "coordenadas": {
@@ -8461,7 +8399,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CRA Os Remuíños",
     "enderezo" : "Rúa Cotaredo 9",
     "concello" : "Cabana de Bergantiños",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15149,
     "tlf" : 981748773,
     "coordenadas": {
@@ -8479,7 +8417,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP O Areal",
     "enderezo" : "Rúa Eugenio Lopez s/n",
     "concello" : "Camariñas",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15123,
     "tlf" : 881880305,
     "coordenadas": {
@@ -8497,7 +8435,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Ponte do Porto",
     "enderezo" : "Rúa O Allo s/n",
     "concello" : "Camariñas",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15121,
     "tlf" : 881880316,
     "coordenadas": {
@@ -8515,7 +8453,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Camelle",
     "enderezo" : "O Areal, 13  (Camelle)",
     "concello" : "Camariñas",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15121,
     "tlf" : 981710520,
     "coordenadas": {
@@ -8533,7 +8471,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Mosteiro de Caaveiro",
     "enderezo" : "As Neves",
     "concello" : "Capela (A)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15613,
     "tlf" : 881938153,
     "coordenadas": {
@@ -8551,7 +8489,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Gándara-Sofán",
     "enderezo" : "Lugar GÁNDARA",
     "concello" : "Carballo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15108,
     "tlf" : 881880427,
     "coordenadas": {
@@ -8569,7 +8507,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Nétoma-Razo",
     "enderezo" : "Rúa Pacífico 20",
     "concello" : "Carballo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15107,
     "tlf" : 881880431,
     "coordenadas": {
@@ -8587,7 +8525,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Bergantiños",
     "enderezo" : "Rúa Carballo Calero s/n",
     "concello" : "Carballo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15100,
     "tlf" : 881880386,
     "coordenadas": {
@@ -8605,7 +8543,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP A Cristina",
     "enderezo" : "Rúa Eduardo Blanco Amor s/n",
     "concello" : "Carballo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15100,
     "tlf" : 881880400,
     "coordenadas": {
@@ -8623,7 +8561,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Xesús San Luís Romero",
     "enderezo" : "Rúa Fotografo Xose Vidal s/n",
     "concello" : "Carballo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15100,
     "tlf" : 881880415,
     "coordenadas": {
@@ -8641,7 +8579,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Fogar",
     "enderezo" : "Rúa Vila de Ordes s/n",
     "concello" : "Carballo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15100,
     "tlf" : 981700294,
     "coordenadas": {
@@ -8659,7 +8597,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CRA Ponte da Pedra",
     "enderezo" : "Rúa Vázquez de Parga 119 bloque 2, 1ºD",
     "concello" : "Carballo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15100,
     "tlf" : 981703403,
     "coordenadas": {
@@ -8677,7 +8615,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Carnota",
     "enderezo" : "Praza de San Gregorio 20",
     "concello" : "Carnota",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15293,
     "tlf" : 881866796,
     "coordenadas": {
@@ -8694,7 +8632,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP do Pindo",
     "enderezo" : "Estrada de Muros-O Pindo",
     "concello" : "Carnota",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15296,
     "tlf" : 881866087,
     "coordenadas": {
@@ -8711,7 +8649,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Tabeaio",
     "enderezo" : "Lugar Esperáon_Tabeallo s/n",
     "concello" : "Carral",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15182,
     "tlf" : 981670396,
     "coordenadas": {
@@ -8728,7 +8666,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Vicente Otero Valcárcel",
     "enderezo" : "Rúa Alcalde Juan Seijas s/n",
     "concello" : "Carral",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15175,
     "tlf" : 881880446,
     "coordenadas": {
@@ -8745,7 +8683,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Nicolás del Río",
     "enderezo" : "Rúa Lopez Corton s/n",
     "concello" : "Cedeira",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15350,
     "tlf" : 881930091,
     "coordenadas": {
@@ -8762,7 +8700,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Eugenio López",
     "enderezo" : "Rúa DA ESCOLA (ESCABANAS) 9",
     "concello" : "Cee",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15270,
     "tlf" : 881880455,
     "coordenadas": {
@@ -8779,7 +8717,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP da Igrexa",
     "enderezo" : "Rúa A IGREXA- BRENS",
     "concello" : "Cee",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15299,
     "tlf" : 607612532,
     "coordenadas": {
@@ -8796,7 +8734,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Canosa-Rus",
     "enderezo" : "Braña s/n",
     "concello" : "Coristanco",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15147,
     "tlf" : 881880382,
     "coordenadas": {
@@ -8813,7 +8751,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CRA Novo Mencer",
     "enderezo" : "Lugar Esfarrapa 52",
     "concello" : "Coristanco",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15147,
     "tlf" : 881880552,
     "coordenadas": {
@@ -8830,7 +8768,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Bormoio-Agualada",
     "enderezo" : "Campo da feira s/n",
     "concello" : "Coristanco",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15148,
     "tlf" : 881880546,
     "coordenadas": {
@@ -8847,7 +8785,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI Alcalde Xosé Pichel",
     "enderezo" : "Rúa Traba, 88 (San Roque)",
     "concello" : "Coristanco",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15147,
     "tlf" : 881880536,
     "coordenadas": {
@@ -8864,8 +8802,8 @@ var db_centros_galicia_raw = [
     "cod" : 15021536,
     "nombre" : "CEIP Plurilingüe Víctor López Seoane",
     "enderezo" : "Vía Artabra, s/n (Monte Alto)",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15002,
     "tlf" : 881960653,
     "coordenadas": {
@@ -8881,8 +8819,8 @@ var db_centros_galicia_raw = [
     "cod" : 15021548,
     "nombre" : "CEIP Sal Lence",
     "enderezo" : "Avenida de Oza 224",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15006,
     "tlf" : 981296503,
     "coordenadas": {
@@ -8898,8 +8836,8 @@ var db_centros_galicia_raw = [
     "cod" : 15021627,
     "nombre" : "CEIP Emilia Pardo Bazán",
     "enderezo" : "Trav. Os Rosais s/n",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15011,
     "tlf" : 981276781,
     "coordenadas": {
@@ -8915,8 +8853,8 @@ var db_centros_galicia_raw = [
     "cod" : 15021721,
     "nombre" : "CEIP de Zalaeta",
     "enderezo" : "Rúa Curros Enriquez, s/n (Zalaeta)",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15002,
     "tlf" : 981211747,
     "coordenadas": {
@@ -8932,8 +8870,8 @@ var db_centros_galicia_raw = [
     "cod" : 15019311,
     "nombre" : "CEIP Plurilingüe María Barbeito e Cervino",
     "enderezo" : "Alcal.Salorio Suarez 28",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15010,
     "tlf" : 981262612,
     "coordenadas": {
@@ -8949,8 +8887,8 @@ var db_centros_galicia_raw = [
     "cod" : 15019323,
     "nombre" : "CEIP Alborada",
     "enderezo" : "Rúa San José de Calasanz 5 A",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15008,
     "tlf" : 981243099,
     "coordenadas": {
@@ -8966,8 +8904,8 @@ var db_centros_galicia_raw = [
     "cod" : 15020568,
     "nombre" : "CEIP Plurilingüe Labaca",
     "enderezo" : "Rúa Juan Florez, 114-116",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15005,
     "tlf" : 881960284,
     "coordenadas": {
@@ -8983,8 +8921,8 @@ var db_centros_galicia_raw = [
     "cod" : 15023375,
     "nombre" : "CEIP José Cornide Saavedra",
     "enderezo" : "Avenida da Sardiñeira s/n",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15007,
     "tlf" : 981248796,
     "coordenadas": {
@@ -9000,8 +8938,8 @@ var db_centros_galicia_raw = [
     "cod" : 15027241,
     "nombre" : "CEIP Juan Fernández Latorre",
     "enderezo" : "Rúa Casanova de Eiris 26",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15009,
     "tlf" : 981133029,
     "coordenadas": {
@@ -9017,8 +8955,8 @@ var db_centros_galicia_raw = [
     "cod" : 15004964,
     "nombre" : "CEIP Plurilingüe Concepción Arenal",
     "enderezo" : "Rúa Marques de Amboage 2",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15006,
     "tlf" : 881880064,
     "coordenadas": {
@@ -9034,8 +8972,8 @@ var db_centros_galicia_raw = [
     "cod" : 15004976,
     "nombre" : "CEIP Curros Enríquez",
     "enderezo" : "Rúa Campo de Marte s/n",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15002,
     "tlf" : 981204735,
     "coordenadas": {
@@ -9051,8 +8989,8 @@ var db_centros_galicia_raw = [
     "cod" : 15004988,
     "nombre" : "CEIP Eusebio da Guarda",
     "enderezo" : "Praza de Pontevedra 21",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15003,
     "tlf" : 981229264,
     "coordenadas": {
@@ -9068,8 +9006,8 @@ var db_centros_galicia_raw = [
     "cod" : 15004991,
     "nombre" : "CEIP Montel Touzet",
     "enderezo" : "Rúa Ferrerias 1",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15001,
     "tlf" : 881960701,
     "coordenadas": {
@@ -9085,8 +9023,8 @@ var db_centros_galicia_raw = [
     "cod" : 15005014,
     "nombre" : "CEIP Raquel Camacho",
     "enderezo" : "Rúa ANTONIO PEDREIRA RIOS 13-15",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15010,
     "tlf" : 981257154,
     "coordenadas": {
@@ -9102,8 +9040,8 @@ var db_centros_galicia_raw = [
     "cod" : 15005026,
     "nombre" : "CEIP Sanjurjo de Carricarte",
     "enderezo" : "Praza San Xose Monte Alto s/n",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15002,
     "tlf" : 981202120,
     "coordenadas": {
@@ -9119,8 +9057,8 @@ var db_centros_galicia_raw = [
     "cod" : 15005038,
     "nombre" : "CEIP de Prácticas",
     "enderezo" : "Paseo de Ronda 47",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15011,
     "tlf" : 981255330,
     "coordenadas": {
@@ -9136,8 +9074,8 @@ var db_centros_galicia_raw = [
     "cod" : 15005336,
     "nombre" : "CEE Nosa Señora do Rosario",
     "enderezo" : "Rúa Ronda Camilo Jose Cela 2",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15008,
     "tlf" : 981283496,
     "coordenadas": {
@@ -9153,8 +9091,8 @@ var db_centros_galicia_raw = [
     "cod" : 15005361,
     "nombre" : "CEIP Rosalía de Castro",
     "enderezo" : "Rúa Rio Avia s/n",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15007,
     "tlf" : 881960245,
     "coordenadas": {
@@ -9170,8 +9108,8 @@ var db_centros_galicia_raw = [
     "cod" : 15005385,
     "nombre" : "CEE María Mariño",
     "enderezo" : "Rúa As Xubias 15",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15006,
     "tlf" : 981174273,
     "coordenadas": {
@@ -9187,8 +9125,8 @@ var db_centros_galicia_raw = [
     "cod" : 15005518,
     "nombre" : "CEIP María Pita",
     "enderezo" : "Ronda de Camilo Jose Cela, 2  A (Elviña)",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15008,
     "tlf" : 981292235,
     "coordenadas": {
@@ -9204,8 +9142,8 @@ var db_centros_galicia_raw = [
     "cod" : 15005521,
     "nombre" : "CEIP Ramón de la Sagra",
     "enderezo" : "Ronda de Camilo Jose Cela 4",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15008,
     "tlf" : 981280208,
     "coordenadas": {
@@ -9221,8 +9159,8 @@ var db_centros_galicia_raw = [
     "cod" : 15005701,
     "nombre" : "CEIP Plurilingüe San Pedro de Visma",
     "enderezo" : "Rúa Lagares 12",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15011,
     "tlf" : 881960787,
     "coordenadas": {
@@ -9238,8 +9176,8 @@ var db_centros_galicia_raw = [
     "cod" : 15004745,
     "nombre" : "CEIP Plurilingüe Anxo da Garda",
     "enderezo" : "Rúa Monte das Moas, 8-10",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15009,
     "tlf" : 881960778,
     "coordenadas": {
@@ -9255,8 +9193,8 @@ var db_centros_galicia_raw = [
     "cod" : 15024902,
     "nombre" : "CEIP Wenceslao Fernández Flórez",
     "enderezo" : "Avenida Ferrocarril 17-19",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15007,
     "tlf" : 881960300,
     "coordenadas": {
@@ -9272,8 +9210,8 @@ var db_centros_galicia_raw = [
     "cod" : 15025025,
     "nombre" : "CEIP San Francisco Javier",
     "enderezo" : "Ronda de Outeiro 72",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15009,
     "tlf" : 981290635,
     "coordenadas": {
@@ -9289,8 +9227,8 @@ var db_centros_galicia_raw = [
     "cod" : 15025037,
     "nombre" : "CEIP Sagrada Familia",
     "enderezo" : "Ronda de Outeiro 211",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15007,
     "tlf" : 881960316,
     "coordenadas": {
@@ -9306,8 +9244,8 @@ var db_centros_galicia_raw = [
     "cod" : 15021792,
     "nombre" : "CEIP Salgado Torres",
     "enderezo" : "Poligono de Elviña, 2ª Fase, s/n",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15008,
     "tlf" : 981243316,
     "coordenadas": {
@@ -9323,8 +9261,8 @@ var db_centros_galicia_raw = [
     "cod" : 15023363,
     "nombre" : "CEIP Plurilingüe Manuel Murguía",
     "enderezo" : "Elviña (San Vicenzo)",
-    "concello" : "Coruña (A)",
-    "provincia" : "Coruña (A)",
+    "concello" : "A Coruña",
+    "provincia" : "A Coruña",
     "cp" : 15192,
     "tlf" : 881960763,
     "coordenadas": {
@@ -9341,7 +9279,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe de Tarrío",
     "enderezo" : "As Paxariñas, 72 (Tarrio)",
     "concello" : "Culleredo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15189,
     "tlf" : 881880556,
     "coordenadas": {
@@ -9358,7 +9296,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Sofía Casanova",
     "enderezo" : "Rutis (Santa María)",
     "concello" : "Culleredo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15174,
     "tlf" : 881960290,
     "coordenadas": {
@@ -9375,7 +9313,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Ría do Burgo",
     "enderezo" : "Rúa MARÍA CAGIAO 8",
     "concello" : "Culleredo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15174,
     "tlf" : 981667356,
     "coordenadas": {
@@ -13153,7 +13091,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI As Mirandas",
     "enderezo" : "Avenida Celso Emilio Ferreiro 4",
     "concello" : "Ares",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15624,
     "tlf" : 881930020,
     "coordenadas": {
@@ -13170,7 +13108,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP San Isidro",
     "enderezo" : "Rúa Roseira 1",
     "concello" : "Neda",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15510,
     "tlf" : 881930404,
     "coordenadas": {
@@ -13187,7 +13125,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP O Coto",
     "enderezo" : "Rúa Rosalia Castro",
     "concello" : "Negreira",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15830,
     "tlf" : 881866821,
     "coordenadas": {
@@ -13204,7 +13142,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Felipe de Castro",
     "enderezo" : "Rúa Ramón Lira Castro 32",
     "concello" : "Noia",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15200,
     "tlf" : 881866170,
     "coordenadas": {
@@ -13221,7 +13159,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe Alexandre Rodríguez Cadarso",
     "enderezo" : "Barro (Santa Cristina)",
     "concello" : "Noia",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15210,
     "tlf" : 981822607,
     "coordenadas": {
@@ -13238,7 +13176,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe da Rabadeira",
     "enderezo" : "Rúa do Ensino 3",
     "concello" : "Oleiros",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15173,
     "tlf" : 881960270,
     "coordenadas": {
@@ -13255,7 +13193,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Luís Seoane",
     "enderezo" : "Avenida Morro de Canide 1",
     "concello" : "Oleiros",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15177,
     "tlf" : 981617130,
     "coordenadas": {
@@ -13272,7 +13210,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Ramón María del Valle-Inclán",
     "enderezo" : "Avenida R.Mª Valle-Inclan",
     "concello" : "Oleiros",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15172,
     "tlf" : 881960324,
     "coordenadas": {
@@ -13289,7 +13227,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Juana de Vega",
     "enderezo" : "Rúa Salvador Allende 43",
     "concello" : "Oleiros",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15176,
     "tlf" : 881960947,
     "coordenadas": {
@@ -13306,7 +13244,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe Isidro Parga Pondal",
     "enderezo" : "Camiño do Saber, s/n (Porto de Santa Cruz)",
     "concello" : "Oleiros",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15179,
     "tlf" : 981614976,
     "coordenadas": {
@@ -13323,7 +13261,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Mesón do Vento",
     "enderezo" : "O Meson do Vento",
     "concello" : "Ordes",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15689,
     "tlf" : 881880894,
     "coordenadas": {
@@ -13340,7 +13278,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Alfonso D. Rodríguez Castelao",
     "enderezo" : "Rúa PARAISO s/n",
     "concello" : "Ordes",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15680,
     "tlf" : 881880881,
     "coordenadas": {
@@ -13357,7 +13295,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Campomaior",
     "enderezo" : "Travesa de Campomaior s/n",
     "concello" : "Ordes",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15680,
     "tlf" : 881880886,
     "coordenadas": {
@@ -13374,7 +13312,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CRA de Oroso",
     "enderezo" : "Rúa Valverde",
     "concello" : "Oroso",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15688,
     "tlf" : 628071438,
     "coordenadas": {
@@ -13391,7 +13329,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Sigüeiro",
     "enderezo" : "Estrada de Grabanxa-Sigueiro",
     "concello" : "Oroso",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15688,
     "tlf" : 881866202,
     "coordenadas": {
@@ -13408,7 +13346,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe do Camiño Inglés",
     "enderezo" : "Avenida Álvaro Cunqueiro s/n",
     "concello" : "Oroso",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15888,
     "tlf" : 881996180,
     "coordenadas": {
@@ -13425,7 +13363,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Outes",
     "enderezo" : "Praza de Galicia s/n",
     "concello" : "Outes",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15230,
     "tlf" : 881866840,
     "coordenadas": {
@@ -13442,7 +13380,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Rosalía de Castro",
     "enderezo" : "Rúa Santiaguiño s/n",
     "concello" : "Padrón",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15900,
     "tlf" : 881866253,
     "coordenadas": {
@@ -13459,7 +13397,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Flavia",
     "enderezo" : "Rúa Carme s/n",
     "concello" : "Padrón",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15900,
     "tlf" : 881866245,
     "coordenadas": {
@@ -13476,7 +13414,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI da Escravitude",
     "enderezo" : "Cruces (Santa María)",
     "concello" : "Padrón",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15980,
     "tlf" : 640395740,
     "coordenadas": {
@@ -13493,7 +13431,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Pousada Carcacía",
     "enderezo" : "Carcacia",
     "concello" : "Padrón",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15914,
     "tlf" : 881866265,
     "coordenadas": {
@@ -13510,7 +13448,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI Camiño de Santiago",
     "enderezo" : "Rúa do concello 16",
     "concello" : "Pino (O)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15821,
     "tlf" : 881867011,
     "coordenadas": {
@@ -13527,7 +13465,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEP Salustiano Rey Eiras",
     "enderezo" : "Rúa BANDASECA s/n",
     "concello" : "Pobra do Caramiñal (A)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15940,
     "tlf" : 881866847,
     "coordenadas": {
@@ -13543,7 +13481,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEP Pilar Maestu Sierra",
     "enderezo" : "Lugar Cadreche s/n",
     "concello" : "Pobra do Caramiñal (A)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15948,
     "tlf" : 881866287,
     "coordenadas": {
@@ -13559,7 +13497,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Ombre",
     "enderezo" : "Ombre (Santa María)",
     "concello" : "Pontedeume",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15608,
     "tlf" : 981430608,
     "coordenadas": {
@@ -13576,7 +13514,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe de Andrade",
     "enderezo" : "Andrade, 39 A",
     "concello" : "Pontedeume",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15614,
     "tlf" : 881930471,
     "coordenadas": {
@@ -13593,7 +13531,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Couceiro Freijomil",
     "enderezo" : "Avenida do Peirao s/n",
     "concello" : "Pontedeume",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15600,
     "tlf" : 881930480,
     "coordenadas": {
@@ -13610,7 +13548,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe Santa María",
     "enderezo" : "Praza de América s/n",
     "concello" : "Pontes de García Rodríguez (As)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15320,
     "tlf" : 881930071,
     "coordenadas": {
@@ -13627,7 +13565,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe A Magdalena",
     "enderezo" : "Rúa Monte Caxado, s/n (Campeiras)",
     "concello" : "Pontes de García Rodríguez (As)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15320,
     "tlf" : 881930036,
     "coordenadas": {
@@ -13644,7 +13582,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe A Fraga",
     "enderezo" : "Avenida da Habana s/n",
     "concello" : "Pontes de García Rodríguez (As)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15320,
     "tlf" : 881938156,
     "coordenadas": {
@@ -13661,7 +13599,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Sobrado-Nebra",
     "enderezo" : "Nebra (Santa María)",
     "concello" : "Porto do Son",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15978,
     "tlf" : 981767148,
     "coordenadas": {
@@ -13678,7 +13616,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Seráns",
     "enderezo" : "Lugar Seráns s/n",
     "concello" : "Porto do Son",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15994,
     "tlf" : 638036095,
     "coordenadas": {
@@ -13695,7 +13633,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Xuño",
     "enderezo" : "Xuño",
     "concello" : "Porto do Son",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15995,
     "tlf" : 881866301,
     "coordenadas": {
@@ -13712,7 +13650,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Portosín",
     "enderezo" : "Praia, s/n (Portosin)",
     "concello" : "Porto do Son",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15999,
     "tlf" : 881866313,
     "coordenadas": {
@@ -13729,7 +13667,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Santa Irene",
     "enderezo" : "Rúa Campo Santa Irene, s/n (Porto do Son)",
     "concello" : "Porto do Son",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15970,
     "tlf" : 881866854,
     "coordenadas": {
@@ -13746,7 +13684,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Campanario",
     "enderezo" : "Campanario 13",
     "concello" : "Porto do Son",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15979,
     "tlf" : 881866297,
     "coordenadas": {
@@ -13763,7 +13701,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEP Xosé María Brea Segade",
     "enderezo" : "Campo Maneiro, 43 E",
     "concello" : "Rianxo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15985,
     "tlf" : 881867046,
     "coordenadas": {
@@ -13779,7 +13717,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Alfonso D. Rodríguez Castelao",
     "enderezo" : "Rúa Rosalia Castro 12",
     "concello" : "Rianxo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15920,
     "tlf" : 881866861,
     "coordenadas": {
@@ -13796,7 +13734,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Ana María Diéguez",
     "enderezo" : "Atalaia s/n",
     "concello" : "Rianxo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15984,
     "tlf" : 881867175,
     "coordenadas": {
@@ -13813,7 +13751,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CRA de Rianxo",
     "enderezo" : "Lugar Asados",
     "concello" : "Rianxo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15984,
     "tlf" : 981863305,
     "coordenadas": {
@@ -13830,7 +13768,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI Plurilingüe dos Dices",
     "enderezo" : "Os Dices",
     "concello" : "Rois",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15911,
     "tlf" : 881866890,
     "coordenadas": {
@@ -13847,7 +13785,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe de Pumar-Urdilde",
     "enderezo" : "O Pumar",
     "concello" : "Rois",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15281,
     "tlf" : 881866365,
     "coordenadas": {
@@ -13864,7 +13802,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe O Mosteirón",
     "enderezo" : "Rúa Esperela s/n",
     "concello" : "Sada",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15168,
     "tlf" : 881880973,
     "coordenadas": {
@@ -13881,7 +13819,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Pedro Barrié de la Maza",
     "enderezo" : "Rúa Miguel Pereiro Tacón s/n",
     "concello" : "Sada",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15168,
     "tlf" : 881960090,
     "coordenadas": {
@@ -13898,7 +13836,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Sada y sus Contornos",
     "enderezo" : "Avenida Sada y sus Contornos s/n",
     "concello" : "Sada",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15160,
     "tlf" : 881880022,
     "coordenadas": {
@@ -13915,7 +13853,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI de San Sadurniño",
     "enderezo" : "Rúa Marques de Figueroa 19",
     "concello" : "San Sadurniño",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15560,
     "tlf" : 881930489,
     "coordenadas": {
@@ -13932,7 +13870,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Barrié de la Maza",
     "enderezo" : "Rúa Rosalia de Castro s/n",
     "concello" : "Santa Comba",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15840,
     "tlf" : 881866918,
     "coordenadas": {
@@ -13949,7 +13887,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CRA de Santa Comba",
     "enderezo" : "Rúa de Galicia, 26-piso 1",
     "concello" : "Santa Comba",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15840,
     "tlf" : 981881327,
     "coordenadas": {
@@ -13966,7 +13904,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe Pepe de Xan Baña",
     "enderezo" : "Traba",
     "concello" : "Santa Comba",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15848,
     "tlf" : 881866641,
     "coordenadas": {
@@ -13983,7 +13921,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Arcediago",
     "enderezo" : "A Ponte Arcediago (San Xoán)",
     "concello" : "Santiso",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15808,
     "tlf" : 981517827,
     "coordenadas": {
@@ -14000,7 +13938,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Virxe do Portal",
     "enderezo" : "A Porta (San Pedro)",
     "concello" : "Sobrado",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15312,
     "tlf" : 881880995,
     "coordenadas": {
@@ -14017,7 +13955,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP da Igrexa",
     "enderezo" : "Rúa A Igrexa 45",
     "concello" : "Somozas (As)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15565,
     "tlf" : 881938101,
     "coordenadas": {
@@ -14034,7 +13972,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Os Tilos",
     "enderezo" : "Rúa Ameneiro 21",
     "concello" : "Teo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15894,
     "tlf" : 881866735,
     "coordenadas": {
@@ -14051,7 +13989,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP da Ramallosa",
     "enderezo" : "A Ramallosa",
     "concello" : "Teo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15883,
     "tlf" : 881866491,
     "coordenadas": {
@@ -14068,7 +14006,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP A Igrexa-Calo",
     "enderezo" : "Lugar Fixó 14",
     "concello" : "Teo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15866,
     "tlf" : 881866483,
     "coordenadas": {
@@ -14085,7 +14023,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CRA de Teo",
     "enderezo" : "Lugar Solláns 77",
     "concello" : "Teo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15886,
     "tlf" : 881867105,
     "coordenadas": {
@@ -14102,7 +14040,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe de Toques",
     "enderezo" : "A Capela (Santa María)",
     "concello" : "Toques",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15806,
     "tlf" : 881960400,
     "coordenadas": {
@@ -14119,7 +14057,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI Pecalama",
     "enderezo" : "Pontepedra",
     "concello" : "Tordoia",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15683,
     "tlf" : 881960001,
     "coordenadas": {
@@ -14136,7 +14074,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI Plurilingüe de Fonte-Díaz",
     "enderezo" : "Rúa Isabel II s/n",
     "concello" : "Touro",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15822,
     "tlf" : 881867840,
     "coordenadas": {
@@ -14153,7 +14091,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP da Polveira",
     "enderezo" : "Chaián (Santa María)",
     "concello" : "Trazo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15687,
     "tlf" : 666596890,
     "coordenadas": {
@@ -14170,7 +14108,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI de Viaño Pequeno",
     "enderezo" : "Viaño Pequeno",
     "concello" : "Trazo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15687,
     "tlf" : 881866510,
     "coordenadas": {
@@ -14187,7 +14125,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CRA de Valdoviño",
     "enderezo" : "Aldea Taraza s/n 1º",
     "concello" : "Valdoviño",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15550,
     "tlf" : 657299132,
     "coordenadas": {
@@ -14204,7 +14142,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI de Atios",
     "enderezo" : "Avenida SAN SADURNIÑO 19",
     "concello" : "Valdoviño",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15552,
     "tlf" : 881938107,
     "coordenadas": {
@@ -14221,7 +14159,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe Xacinto Amigo Lera",
     "enderezo" : "Rúa Entrepontes s/n",
     "concello" : "Val do Dubra",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15871,
     "tlf" : 881866990,
     "coordenadas": {
@@ -14238,7 +14176,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI de Bembibre",
     "enderezo" : "Rúa Socortes 18",
     "concello" : "Val do Dubra",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15873,
     "tlf" : 881866981,
     "coordenadas": {
@@ -14255,7 +14193,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI Plurilingüe de Vedra",
     "enderezo" : "Avenida do Mestre Manuel Gómez",
     "concello" : "Vedra",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15885,
     "tlf" : 881867015,
     "coordenadas": {
@@ -14272,7 +14210,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Ortigueira",
     "enderezo" : "Lugar Ortigueira 2",
     "concello" : "Vedra",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15880,
     "tlf" : 881866995,
     "coordenadas": {
@@ -14289,7 +14227,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Présaras",
     "enderezo" : "Présaras (San Pedro)",
     "concello" : "Vilasantar",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15807,
     "tlf" : 981778050,
     "coordenadas": {
@@ -14306,7 +14244,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe San Vicenzo",
     "enderezo" : "Rúa do Candil 19",
     "concello" : "Vimianzo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15129,
     "tlf" : 881866532,
     "coordenadas": {
@@ -14323,7 +14261,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Castromil",
     "enderezo" : "Salto (Santa María)",
     "concello" : "Vimianzo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15129,
     "tlf" : 679830282,
     "coordenadas": {
@@ -14340,7 +14278,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Baíñas",
     "enderezo" : "Baíñas (Santo Antoíño)",
     "concello" : "Vimianzo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15127,
     "tlf" : 881960010,
     "coordenadas": {
@@ -14357,7 +14295,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Labarta Pose",
     "enderezo" : "Rúa Mestre Platas, s/n (Baio Pequeno)",
     "concello" : "Zas",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15150,
     "tlf" : 881960044,
     "coordenadas": {
@@ -14374,7 +14312,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI de Zas",
     "enderezo" : "Rúa de Galicia 49",
     "concello" : "Zas",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15850,
     "tlf" : 881960028,
     "coordenadas": {
@@ -14391,7 +14329,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Manuel Fraga Iribarne",
     "enderezo" : "Rúa A Area 1",
     "concello" : "Cariño",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15365,
     "tlf" : 881880434,
     "coordenadas": {
@@ -15681,7 +15619,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe San Marcos",
     "enderezo" : "Campo da Feira s/n",
     "concello" : "Abegondo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15318,
     "tlf" : 981673052,
     "coordenadas": {
@@ -15698,7 +15636,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP A Maía",
     "enderezo" : "Rúa Peregrina, s/n (Bertamiráns)",
     "concello" : "Ames",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15220,
     "tlf" : 881866002,
     "coordenadas": {
@@ -15715,7 +15653,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI da Igrexa",
     "enderezo" : "A Tarroeira",
     "concello" : "Ames",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15034,
     "tlf" : 981884459,
     "coordenadas": {
@@ -15732,7 +15670,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Agro do Muíño",
     "enderezo" : "Lugar As Cortes s/n",
     "concello" : "Ames",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15228,
     "tlf" : 881866010,
     "coordenadas": {
@@ -15749,7 +15687,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEP Plurilingüe de Ventín",
     "enderezo" : "Ventin",
     "concello" : "Ames",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15895,
     "tlf" : 881867490,
     "coordenadas": {
@@ -15766,7 +15704,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Barouta",
     "enderezo" : "Ames (San Tomé)",
     "concello" : "Ames",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15229,
     "tlf" : 881867455,
     "coordenadas": {
@@ -15783,7 +15721,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP da Castellana",
     "enderezo" : "A Castellana",
     "concello" : "Aranga",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15316,
     "tlf" : 881880209,
     "coordenadas": {
@@ -17395,7 +17333,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEE Manuel López Navalón",
     "enderezo" : "Lugar CASAS DO REGO 20",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15898,
     "tlf" : 981562977,
     "coordenadas": {
@@ -17412,7 +17350,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Torres",
     "enderezo" : "Torres (San Xorxe)",
     "concello" : "Vilarmaior",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15638,
     "tlf" : 881123958,
     "coordenadas": {
@@ -17565,7 +17503,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Oza dos Ríos",
     "enderezo" : "Rúa Lois 35",
     "concello" : "Oza-Cesuras",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15380,
     "tlf" : 881880910,
     "coordenadas": {
@@ -17582,7 +17520,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe Bragade",
     "enderezo" : "Soocamiño, O Forte s/n",
     "concello" : "Oza-Cesuras",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15390,
     "tlf" : 881880509,
     "coordenadas": {
@@ -17599,7 +17537,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Escarabote",
     "enderezo" : "Lampón (Santiago)",
     "concello" : "Boiro",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15992,
     "tlf" : 881866551,
     "coordenadas": {
@@ -17616,7 +17554,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Santa María do Castro",
     "enderezo" : "Rúa Valiño 55",
     "concello" : "Boiro",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15939,
     "tlf" : 881867032,
     "coordenadas": {
@@ -17633,7 +17571,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Cespón",
     "enderezo" : "Cespon",
     "concello" : "Boiro",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15991,
     "tlf" : 881866691,
     "coordenadas": {
@@ -17650,7 +17588,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Santa Baia",
     "enderezo" : "Avenida Compostela 48",
     "concello" : "Boiro",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15930,
     "tlf" : 881866595,
     "coordenadas": {
@@ -17667,7 +17605,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Praia Xardín",
     "enderezo" : "Rúa Praia Xardin s/n",
     "concello" : "Boiro",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15930,
     "tlf" : 881866545,
     "coordenadas": {
@@ -17684,7 +17622,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Pazos-Comoxo",
     "enderezo" : "Aldea de Comoxo",
     "concello" : "Boiro",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15937,
     "tlf" : 679821076,
     "coordenadas": {
@@ -17701,7 +17639,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe de Abanqueiro",
     "enderezo" : "Rúa Exipto s/n",
     "concello" : "Boiro",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15938,
     "tlf" : 881866535,
     "coordenadas": {
@@ -17718,7 +17656,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Portofaro",
     "enderezo" : "Rúa dos Templarios, (O Temple) 1",
     "concello" : "Cambre",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15679,
     "tlf" : 881880349,
     "coordenadas": {
@@ -17735,7 +17673,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe Graxal",
     "enderezo" : "Rúa Francisco Rodríguez 6",
     "concello" : "Cambre",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15679,
     "tlf" : 881880330,
     "coordenadas": {
@@ -17752,7 +17690,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Gonzalo Torrente Ballester",
     "enderezo" : "Rúa Souto s/n",
     "concello" : "Cambre",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15181,
     "tlf" : 881960131,
     "coordenadas": {
@@ -17769,7 +17707,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Wenceslao Fernández Flórez",
     "enderezo" : "Rúa Wenceslao Fernández Flórez 16",
     "concello" : "Cambre",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15660,
     "tlf" : 881880320,
     "coordenadas": {
@@ -17786,7 +17724,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Emilio González López",
     "enderezo" : "Rúa Lamelas, 21 (Lema)",
     "concello" : "Cambre",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15659,
     "tlf" : 881880363,
     "coordenadas": {
@@ -17803,7 +17741,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Celso Emilio Ferreiro",
     "enderezo" : "Rodís (San Martiño)",
     "concello" : "Cerceda",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15186,
     "tlf" : 881880506,
     "coordenadas": {
@@ -17820,7 +17758,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI Plurilingüe O Cruce",
     "enderezo" : "Campo da Feira",
     "concello" : "Cerceda",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15185,
     "tlf" : 981685053,
     "coordenadas": {
@@ -18361,7 +18299,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CPI de Cruz do Sar",
     "enderezo" : "Rúa A Senra 33",
     "concello" : "Bergondo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15165,
     "tlf" : 881960215,
     "coordenadas": {
@@ -18377,7 +18315,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe Eladia Mariño",
     "enderezo" : "Rúa Barreiro 10",
     "concello" : "Cabanas",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15622,
     "tlf" : 981431848,
     "coordenadas": {
@@ -18394,7 +18332,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP da Barqueira",
     "enderezo" : "Barqueira Vella",
     "concello" : "Cerdido",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15569,
     "tlf" : 881930105,
     "coordenadas": {
@@ -18411,7 +18349,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Praia de Quenxe",
     "enderezo" : "Rúa Maruja Mallo 18",
     "concello" : "Corcubión",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15130,
     "tlf" : 881880532,
     "coordenadas": {
@@ -18428,7 +18366,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Areouta",
     "enderezo" : "Sardiñeiro de Abaixo",
     "concello" : "Fisterra",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15153,
     "tlf" : 881880664,
     "coordenadas": {
@@ -18445,7 +18383,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Mar de Fóra",
     "enderezo" : "Estrada do Faro s/n",
     "concello" : "Fisterra",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15155,
     "tlf" : 881880658,
     "coordenadas": {
@@ -18462,7 +18400,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Francisco López Estrada",
     "enderezo" : "O Porto do Barqueiro",
     "concello" : "Mañón",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15337,
     "tlf" : 981414127,
     "coordenadas": {
@@ -18479,7 +18417,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Virxe da Barca",
     "enderezo" : "Rúa Enfesto 13",
     "concello" : "Muxía",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15124,
     "tlf" : 881880794,
     "coordenadas": {
@@ -18496,7 +18434,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP dos Muíños",
     "enderezo" : "Moraime (San Xulián)",
     "concello" : "Muxía",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15125,
     "tlf" : 881880787,
     "coordenadas": {
@@ -18513,7 +18451,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Vilarmide-Eduardo Noya",
     "enderezo" : "Coucieiro (San Pedro)",
     "concello" : "Muxía",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15125,
     "tlf" : 881880798,
     "coordenadas": {
@@ -18530,7 +18468,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP José María Lage",
     "enderezo" : "Rúa Pedro Castiñeiras s/n",
     "concello" : "Ortigueira",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15330,
     "tlf" : 881930417,
     "coordenadas": {
@@ -18547,7 +18485,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP As Forcadas",
     "enderezo" : "Rúa As Forcadas s/n",
     "concello" : "Ponteceso",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15114,
     "tlf" : 881880930,
     "coordenadas": {
@@ -18564,7 +18502,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Eduardo Pondal",
     "enderezo" : "Rúa A TRABE",
     "concello" : "Ponteceso",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15110,
     "tlf" : 881880934,
     "coordenadas": {
@@ -18581,7 +18519,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CRA Nosa Señora do Faro",
     "enderezo" : "Rúa r/ do concello 14",
     "concello" : "Ponteceso",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15110,
     "tlf" : 981714692,
     "coordenadas": {
@@ -18598,7 +18536,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe de Artes",
     "enderezo" : "Artes (San Xián)",
     "concello" : "Ribeira",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15969,
     "tlf" : 881866358,
     "coordenadas": {
@@ -18615,7 +18553,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe O Grupo",
     "enderezo" : "Rúa Miguel Rodriguez Bautista 22",
     "concello" : "Ribeira",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15960,
     "tlf" : 981870498,
     "coordenadas": {
@@ -18632,7 +18570,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI Deán Grande",
     "enderezo" : "Avenida da Coruña",
     "concello" : "Ribeira",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15968,
     "tlf" : 673437011,
     "coordenadas": {
@@ -18649,7 +18587,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Olveira",
     "enderezo" : "Rúa A Igrexa 75",
     "concello" : "Ribeira",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15969,
     "tlf" : 881866347,
     "coordenadas": {
@@ -18666,7 +18604,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe de Palmeira",
     "enderezo" : "Rúa Moldes 2",
     "concello" : "Ribeira",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15959,
     "tlf" : 981838281,
     "coordenadas": {
@@ -18683,7 +18621,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEP Plurilingüe de Carreira",
     "enderezo" : "Rúa Pé do Corniño s/n",
     "concello" : "Ribeira",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15967,
     "tlf" : 881866351,
     "coordenadas": {
@@ -18700,7 +18638,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe de Frións",
     "enderezo" : "Lugar de Frións s/n",
     "concello" : "Ribeira",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15967,
     "tlf" : 881867027,
     "coordenadas": {
@@ -18717,7 +18655,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Heroínas de Sálvora",
     "enderezo" : "Rúa Falcoeiro 10",
     "concello" : "Ribeira",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15965,
     "tlf" : 881866345,
     "coordenadas": {
@@ -18734,7 +18672,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Arquitecto Casas Novoa",
     "enderezo" : "A SIONLLA DE ABAIXO",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15884,
     "tlf" : 881866975,
     "coordenadas": {
@@ -18751,7 +18689,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Vite I",
     "enderezo" : "Avenida BURGO DAS NACIONS s/n",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15705,
     "tlf" : 981585908,
     "coordenadas": {
@@ -18768,7 +18706,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Apóstolo Santiago",
     "enderezo" : "Rúa Proxecto Vagalume 2",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15704,
     "tlf" : 981543172,
     "coordenadas": {
@@ -18785,7 +18723,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Prácticas López Ferreiro",
     "enderezo" : "Rúa Xazmíns s/n",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15704,
     "tlf" : 981543178,
     "coordenadas": {
@@ -18803,7 +18741,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Raíña Fabiola",
     "enderezo" : "Rúa Entregaleras s/n",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15705,
     "tlf" : 981585372,
     "coordenadas": {
@@ -18821,7 +18759,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Ramón Cabanillas",
     "enderezo" : "Rúa JOSÉ ANTONIO SOUTO PAZ 5",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15702,
     "tlf" : 981543183,
     "coordenadas": {
@@ -18838,7 +18776,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe Cardeal Quiroga Palacios",
     "enderezo" : "Avenida Villaldia, 33-35",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15706,
     "tlf" : 981543181,
     "coordenadas": {
@@ -18855,7 +18793,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Plurilingüe Monte dos Postes",
     "enderezo" : "Rúa Fontiñas 79",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15707,
     "tlf" : 881867853,
     "coordenadas": {
@@ -18872,7 +18810,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP das Fontiñas",
     "enderezo" : "Rúa de Roma 21",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15707,
     "tlf" : 981543175,
     "coordenadas": {
@@ -18889,7 +18827,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Pío XII",
     "enderezo" : "Rúa Poza de Bar s/n",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15705,
     "tlf" : 881866419,
     "coordenadas": {
@@ -18906,7 +18844,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEE O Pedroso",
     "enderezo" : "Rúa SAN PAIO s/n",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15898,
     "tlf" : 981561972,
     "coordenadas": {
@@ -18922,7 +18860,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Lamas de Abade",
     "enderezo" : "Lamas de Abade s/n",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15702,
     "tlf" : 981523313,
     "coordenadas": {
@@ -18940,7 +18878,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEE A Barcia",
     "enderezo" : "A Barcia s/n",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15896,
     "tlf" : 981537401,
     "coordenadas": {
@@ -18957,7 +18895,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP Mestre Rodríguez Xixirei",
     "enderezo" : "Sabugueira (San Paio)",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15820,
     "tlf" : 881866470,
     "coordenadas": {
@@ -18974,7 +18912,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CEIP de Roxos",
     "enderezo" : "Rúa da Barrosa, 74 - Roxos",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15896,
     "tlf" : 881867434,
     "coordenadas": {
@@ -18991,7 +18929,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CRA de Culleredo",
     "enderezo" : "Rúa Choeira",
     "concello" : "Culleredo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15180,
     "tlf" : 981662094,
     "coordenadas": {
@@ -19008,7 +18946,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CRA de Dodro",
     "enderezo" : "Estrada De Imo 28",
     "concello" : "Dodro",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15982,
     "tlf" : 981802421,
     "coordenadas": {
@@ -19025,7 +18963,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Traba",
     "enderezo" : "Campo dos Bois (Melgueiras) s/n",
     "concello" : "Laxe",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15119,
     "tlf" : 981735553,
     "coordenadas": {
@@ -19042,7 +18980,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Comiáns",
     "enderezo" : "Nosa Señora de Comians",
     "concello" : "Laracha (A)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15045,
     "tlf" : 981608978,
     "coordenadas": {
@@ -19059,7 +18997,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI do Seixo",
     "enderezo" : "Avenida Bello Piñeiro, s/n (O Seixo)",
     "concello" : "Mugardos",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15626,
     "tlf" : 881930348,
     "coordenadas": {
@@ -19076,7 +19014,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Muros",
     "enderezo" : "Rúa San Xose s/n",
     "concello" : "Muros",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15250,
     "tlf" : 981827613,
     "coordenadas": {
@@ -19093,7 +19031,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Tal de Abaixo",
     "enderezo" : "Tal (Santiago)",
     "concello" : "Muros",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15289,
     "tlf" : 696768472,
     "coordenadas": {
@@ -19110,7 +19048,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Vilarrodís-Oseiro",
     "enderezo" : "Rúa CARLOS MASIDE 16",
     "concello" : "Arteixo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15141,
     "tlf" : 616466312,
     "coordenadas": {
@@ -19127,7 +19065,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Lañas",
     "enderezo" : "Lañas (Santa Baia)",
     "concello" : "Baña (A)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15863,
     "tlf" : 669368417,
     "coordenadas": {
@@ -19144,7 +19082,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Sabaxáns",
     "enderezo" : "Bastavales (San Xulián)",
     "concello" : "Brión",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15280,
     "tlf" : 699367595,
     "coordenadas": {
@@ -19161,7 +19099,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI da Igrexa",
     "enderezo" : "Rúa A IGREXA 4",
     "concello" : "Brión",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15865,
     "tlf" : 696681767,
     "coordenadas": {
@@ -19178,7 +19116,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI dos Ánxeles",
     "enderezo" : "Rúa da Fonte 1",
     "concello" : "Brión",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15280,
     "tlf" : 981509977,
     "coordenadas": {
@@ -19195,7 +19133,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Portocubelo",
     "enderezo" : "Lira (Santa María)",
     "concello" : "Carnota",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15292,
     "tlf" : 608383512,
     "coordenadas": {
@@ -19212,7 +19150,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI do Viso",
     "enderezo" : "San Mamede De Carnota (San Mamede)",
     "concello" : "Carnota",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15293,
     "tlf" : 635100169,
     "coordenadas": {
@@ -19229,7 +19167,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI da Pereiriña",
     "enderezo" : "Bermun",
     "concello" : "Cee",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15270,
     "tlf" : 607516416,
     "coordenadas": {
@@ -19246,7 +19184,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Fontelo",
     "enderezo" : "Santa María De Ois (Santa María)",
     "concello" : "Coirós",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15316,
     "tlf" : 639709895,
     "coordenadas": {
@@ -19263,7 +19201,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Coirós de Arriba",
     "enderezo" : "Cruceiro (Coiros de Arriba) 16",
     "concello" : "Coirós",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15316,
     "tlf" : 981796414,
     "coordenadas": {
@@ -19722,7 +19660,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Aro",
     "enderezo" : "Camiño Real 8",
     "concello" : "Negreira",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15838,
     "tlf" : 690178295,
     "coordenadas": {
@@ -19739,7 +19677,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Viñas",
     "enderezo" : "San Pantaleon",
     "concello" : "Paderne",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15314,
     "tlf" : 981782090,
     "coordenadas": {
@@ -19756,7 +19694,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Areas",
     "enderezo" : "Adragonte (Santiago)",
     "concello" : "Paderne",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15314,
     "tlf" : 649180677,
     "coordenadas": {
@@ -19773,7 +19711,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Extramundi de Arriba",
     "enderezo" : "Padrón (Santiago)",
     "concello" : "Padrón",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15910,
     "tlf" : 697890449,
     "coordenadas": {
@@ -19790,7 +19728,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Arretén",
     "enderezo" : "Iria Flavia (Santa María)",
     "concello" : "Padrón",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15917,
     "tlf" : 618834694,
     "coordenadas": {
@@ -19807,7 +19745,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Pontecesures",
     "enderezo" : "Rúa Calzada, s/n (Pontecesures)",
     "concello" : "Padrón",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15900,
     "tlf" : 618173242,
     "coordenadas": {
@@ -19824,7 +19762,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI Gonzar",
     "enderezo" : "Gonzar (Santa María)",
     "concello" : "Pino (O)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15821,
     "tlf" : 696975078,
     "coordenadas": {
@@ -19841,7 +19779,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI Fernández Varela",
     "enderezo" : "Rúa Castelao 3",
     "concello" : "Pobra do Caramiñal (A)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15940,
     "tlf" : 881866295,
     "coordenadas": {
@@ -19858,7 +19796,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI da Angustia",
     "enderezo" : "Campo ANGUSTIA",
     "concello" : "Pobra do Caramiñal (A)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15948,
     "tlf" : 636485074,
     "coordenadas": {
@@ -19875,7 +19813,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI da Granxa",
     "enderezo" : "Rúa Granxa 23",
     "concello" : "Pobra do Caramiñal (A)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15948,
     "tlf" : 636485073,
     "coordenadas": {
@@ -19892,7 +19830,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Vilariño",
     "enderezo" : "Vilariño",
     "concello" : "Pobra do Caramiñal (A)",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15940,
     "tlf" : 636485076,
     "coordenadas": {
@@ -19909,7 +19847,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Queiruga",
     "enderezo" : "Queiruga (Santo Estevo)",
     "concello" : "Porto do Son",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15998,
     "tlf" : 981768238,
     "coordenadas": {
@@ -19926,7 +19864,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Carballosa",
     "enderezo" : "San Pedro De Muro (San Pedro)",
     "concello" : "Porto do Son",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15994,
     "tlf" : 600732091,
     "coordenadas": {
@@ -19943,7 +19881,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Caamaño",
     "enderezo" : "Rúa da Cruz",
     "concello" : "Porto do Son",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15996,
     "tlf" : 687348640,
     "coordenadas": {
@@ -19960,7 +19898,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Carnoedo",
     "enderezo" : "Rúa Taibo, 1 A",
     "concello" : "Sada",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15169,
     "tlf" : 981621816,
     "coordenadas": {
@@ -19977,7 +19915,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Carantoña",
     "enderezo" : "Praza de Carantoña 17",
     "concello" : "Vimianzo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15129,
     "tlf" : 651194675,
     "coordenadas": {
@@ -19994,7 +19932,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Carnés",
     "enderezo" : "Carnés (San Cristovo)",
     "concello" : "Vimianzo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15121,
     "tlf" : 699847151,
     "coordenadas": {
@@ -20198,7 +20136,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Covas",
     "enderezo" : "Covas s/n",
     "concello" : "Ames",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15864,
     "tlf" : 981884850,
     "coordenadas": {
@@ -20215,7 +20153,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI do Milladoiro",
     "enderezo" : "Travesa do Porto (Milladoiro) s/n",
     "concello" : "Ames",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15895,
     "tlf" : 881866037,
     "coordenadas": {
@@ -20232,7 +20170,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Barrionovo",
     "enderezo" : "Avenida de Pastoriza s/n",
     "concello" : "Arteixo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15142,
     "tlf" : 696846412,
     "coordenadas": {
@@ -20516,7 +20454,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de San Bartolomeu",
     "enderezo" : "Pravio (San Xoán)",
     "concello" : "Cambre",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15668,
     "tlf" : 629587803,
     "coordenadas": {
@@ -20532,7 +20470,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI de Apeadeiro",
     "enderezo" : "Apeadeiro 17",
     "concello" : "Cambre",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15650,
     "tlf" : 629594480,
     "coordenadas": {
@@ -20660,7 +20598,7 @@ var db_centros_galicia_raw = [
     "nombre" : "CRA de Bergondo",
     "enderezo" : "Estrada A Coruña - Ferrol 12",
     "concello" : "Bergondo",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15165,
     "tlf" : 981791896,
     "coordenadas": {
@@ -20676,7 +20614,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI Capela-Carreira",
     "enderezo" : "Carreira (San Paio)",
     "concello" : "Ribeira",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15967,
     "tlf" : 675104549,
     "coordenadas": {
@@ -20692,7 +20630,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI Bispo Teodomiro",
     "enderezo" : "Marrozos (Santa María)",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15700,
     "tlf" : 981539897,
     "coordenadas": {
@@ -20708,7 +20646,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI do Rial",
     "enderezo" : "O Rial",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15896,
     "tlf" : 981524165,
     "coordenadas": {
@@ -20724,7 +20662,7 @@ var db_centros_galicia_raw = [
     "nombre" : "EEI do Gaioso",
     "enderezo" : "O Gaioso",
     "concello" : "Santiago de Compostela",
-    "provincia" : "Coruña (A)",
+    "provincia" : "A Coruña",
     "cp" : 15896,
     "tlf" : 981549575,
     "coordenadas": {
