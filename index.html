@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/izimodal/1.5.1/css/iziModal.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css"
+   integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ=="
+   crossorigin=""/>
     <link rel="stylesheet" href="css/estilo.css">
 
 </head>
@@ -19,6 +22,7 @@
         </header>
         <div class="col-md-2">
             <button type="button" class="btn btn-primary" onclick="app.export();">Exportar centros</button>
+            <button type="button" class="btn btn-primary" onclick="app.cambiar_localizacion();">Cambiar Localización</button>
         </div>
     </div>
     <div class="row">
@@ -188,7 +192,11 @@
 <script src="js/handlebars/utils.js" charset="utf-8"></script>
 <script src="js/handlebars/centros.handlebars.js" charset="utf-8"></script>
 <script src="js/handlebars/modalexport.handlebars.js" charset="utf-8"></script>
+<script src="js/handlebars/modallocalizacion.handlebars.js" charset="utf-8"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/izimodal/1.5.1/js/iziModal.min.js" charset="utf-8"></script>
+<script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"
+  integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log=="
+  crossorigin=""></script>
 <script src="js/app.js" charset="utf-8"></script>
 <script>
     $(window).on('load', function() {
@@ -200,7 +208,8 @@
              padding:  "2em",
              top: 100,
              bottom: 100,
-             width: 800
+             width: 800,
+             onClosed: app.closing_modal
          });
          app.load_data();
     });

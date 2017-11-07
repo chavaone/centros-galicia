@@ -1,11 +1,11 @@
 
-app = {};
+var app = {};
 
+app.market = {};
 app.trash = [];
-
 app.centros = [];
-
 app.sort_enabled_method = "none";
+app.modal = "none";
 
 app.sort_methods = {
     'nome' : function (centro_a, centro_b) {
@@ -23,10 +23,36 @@ app.sort_methods = {
 
 app.export = function () {
     var codigos = $.map($("main#list>article"), function (centro) {return centro.dataset.codCentro;}).join(" ");
+    app.modal = "export";
     $("#modal").html(Handlebars.templates.modalexport({
         paste: codigos
     }));
     $('#modal').iziModal('open');
+};
+
+app.cambiar_localizacion = function () {
+    app.modal = "localizacion";
+    $("#modal").html(Handlebars.templates.modallocalizacion({}));
+    $('#modal').iziModal('open');
+};
+
+app.map_click = function (e) {
+    app.position = {
+        lat: e.latlng.lat,
+        lon: e.latlng.lng
+    };
+
+    if (app.marker) {
+        app.map.removeLayer(app.marker);
+    }
+    app.marker = L.marker([app.position.lat, app.position.lon]).addTo(app.map);
+};
+
+app.closing_modal = function () {
+    if (app.modal === "localizacion") {
+        app.get_osm(app.position.lat, app.position.lon, app.load_data);
+    }
+    app.modal = "none";
 };
 
 app.get_osm = function (lat, long, callback) {

@@ -1,0 +1,12 @@
+<div class="modal-content">
+<p>Por defecto este sitio emprega a túa localización actual solicitandolle esta información ó teu navegador. Para modificar esta posición haciendo click en el siguiente mapa:</p>
+ <div id="mapaposicion"></div>
+ <script type="text/javascript">
+    app.map = L.map('mapaposicion').setView([43, -8], 8);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+         maxZoom: 20,
+     }).addTo(app.map);
+     app.map.on('click', app.map_click);
+ </script>
+</div>

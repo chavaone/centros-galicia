@@ -30,3 +30,7 @@ code.codigos {
 .modal-content p a{
 text-indent: 0;
 }
+
+#mapaposicion {
+    height: 400px;
+}
