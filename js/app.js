@@ -137,7 +137,7 @@ app.filter = function (centros) {
                 ($("#eso-checkbox").is(':checked') && c.ensinanzas.indexOf("eso") !== -1) ||
                 ($("#bac-checkbox").is(':checked') && c.ensinanzas.indexOf("bac") !== -1) ||
                 ($("#fp-checkbox").is(':checked') &&  c.ensinanzas.indexOf("fp") !== -1) ||
-                ($("#esa-checkbox").is(':checked') &&  c.ensinanzas.indexOf("eso") !== -1) ||
+                ($("#esa-checkbox").is(':checked') &&  c.ensinanzas.indexOf("esa") !== -1) ||
                 ($("#baca-checkbox").is(':checked') &&  c.ensinanzas.indexOf("baca") !== -1);
     });
 
