@@ -73,7 +73,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 320340401,
         "local": "Gudiña, A",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim"
     	]
     },
     {
@@ -194,7 +196,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 360480209,
         "local": "Rosal, O",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -333,7 +337,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 320560217,
         "local": "Crespos",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim"
     	]
     },
     {
@@ -576,7 +582,7 @@ var db_centros_galicia_raw = [
     {
         "cod": 36000247,
         "nombre": "CPI de Cova Terreña",
-        "enderezo": "  ",
+        "enderezo": "Dolores Agrelo s/n",
         "concello": "Baiona",
         "provincia": "Pontevedra",
         "cp": 36300,
@@ -588,7 +594,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 360030301,
         "local": "Baiona",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -665,7 +673,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 320171401,
         "local": "Sobradelo",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -683,7 +693,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 360090203,
         "local": "Cañiza, A",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -837,7 +849,8 @@ var db_centros_galicia_raw = [
 		"codlocal": 360350000,
         "local": "Nigrán",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "prim"
     	]
     },
     {
@@ -891,7 +904,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 320230401,
         "local": "Castro Caldelas",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -986,7 +1001,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 360300505,
         "local": "Mondariz",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -1161,7 +1178,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 320541201,
         "local": "Ourense",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -1703,7 +1722,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 360370702,
         "local": "Pazos",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -1801,7 +1822,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 320260401,
         "local": "Cambeo",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -1898,7 +1921,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 320450603,
         "local": "Maside",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -1916,7 +1941,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 360530101,
         "local": "Arcade",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -2095,7 +2122,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 360580517,
         "local": "Vilaboa",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -2150,7 +2179,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 320760707,
         "local": "Cea",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -2247,7 +2278,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 270170706,
         "local": "Seoane",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -2381,7 +2414,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 270582602,
         "local": "Vilasante",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -2653,7 +2688,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 270450901,
         "local": "Pedrafita do Cebreiro",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -2707,7 +2744,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 360460106,
         "local": "Barrantes",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -2745,7 +2784,8 @@ var db_centros_galicia_raw = [
 		"codlocal": 360280701,
         "local": "Mosteiro",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "prim",
     	]
     },
     {
@@ -2784,7 +2824,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 360471706,
         "local": "Rodeiro",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -2863,7 +2905,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 360320910,
         "local": "Saiáns",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+    	"prim",
     	]
     },
     {
@@ -2901,7 +2945,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 360400305,
         "local": "Portas",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -2940,7 +2986,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 270602200,
         "local": "Taboada",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -3053,7 +3101,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 360050301,
         "local": "Caldas de Reis",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -3154,7 +3204,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 360150405,
         "local": "Cuntis",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -3234,7 +3286,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 270120701,
         "local": "San Román de Cervantes",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -3428,7 +3482,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 270261402,
         "local": "Pobra de San Xiao, A",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -3466,7 +3522,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 279010301,
         "local": "Baralla",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -3484,7 +3542,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 360100400,
         "local": "Oeste",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+    	"prim",
     	]
     },
     {
@@ -3599,7 +3659,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 360440106,
         "local": "Pontecesures",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim"
     	]
     },
     {
@@ -3617,7 +3679,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 270341202,
         "local": "Navia de Suarna",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -3635,7 +3699,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 150330311,
         "local": "Laíño",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "prim",
+        "esp"
     	]
     },
     {
@@ -3673,7 +3739,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 270231000,
         "local": "Guntín de Pallares",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -3731,7 +3799,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 150891101,
         "local": "Vedra",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -3749,7 +3819,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 150740906,
         "local": "Rois",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -3767,7 +3839,10 @@ var db_centros_galicia_raw = [
 		"codlocal": 150120102,
         "local": "Boqueixón",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
+    "esp"
     	]
     },
     {
@@ -3860,7 +3935,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 150851703,
         "local": "Touro",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -3978,7 +4055,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 270113701,
         "local": "Castroverde",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -4429,7 +4508,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 150660100,
         "local": "Arca",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -4638,7 +4719,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 270200901,
         "local": "Friol",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -4676,7 +4759,10 @@ var db_centros_galicia_raw = [
 		"codlocal": 150100505,
         "local": "Gándara",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
+        "esp"
     	]
     },
     {
@@ -4752,7 +4838,10 @@ var db_centros_galicia_raw = [
 		"codlocal": 150380800,
         "local": "Ledoira",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
+        "esp"
     	]
     },
     {
@@ -4827,7 +4916,10 @@ var db_centros_galicia_raw = [
 		"codlocal": 150070100,
         "local": "San Vicente",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
+        "esp"
     	]
     },
     {
@@ -4845,7 +4937,10 @@ var db_centros_galicia_raw = [
 		"codlocal": 150451207,
         "local": "Mazaricos",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
+        "esp"
     	]
     },
     {
@@ -4863,7 +4958,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 150860310,
         "local": "Campo",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -4918,7 +5015,10 @@ var db_centros_galicia_raw = [
 		"codlocal": 150471209,
         "local": "Xanceda",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
+        "esp"
     	]
     },
     {
@@ -4936,7 +5036,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 150880201,
         "local": "Bembibre",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -5097,7 +5199,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 270151507,
         "local": "Sistallo",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -5135,7 +5239,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 150840411,
         "local": "Cabaleiros",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -5248,7 +5354,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 150930203,
         "local": "Baio",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -5266,7 +5374,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 150240108,
         "local": "Cerceda",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -5361,7 +5471,10 @@ var db_centros_galicia_raw = [
 		"codlocal": 150291208,
         "local": "San Roque",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
+        "esp"
     	]
     },
     {
@@ -5379,7 +5492,10 @@ var db_centros_galicia_raw = [
 		"codlocal": 150500300,
         "local": "San Fiz de Monfero",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
+        "esp"
     	]
     },
     {
@@ -5579,7 +5695,8 @@ var db_centros_galicia_raw = [
 		"codlocal": 150080202,
         "local": "Bergondo",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "prim",
     	]
     },
     {
@@ -5617,7 +5734,10 @@ var db_centros_galicia_raw = [
 		"codlocal": 150140307,
         "local": "Revoltas, As",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
+        "esp"
     	]
     },
     {
@@ -5654,7 +5774,10 @@ var db_centros_galicia_raw = [
 		"codlocal": 150400101,
         "local": "Laxe",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
+        "esp"
     	]
     },
     {
@@ -5751,7 +5874,10 @@ var db_centros_galicia_raw = [
 		"codlocal": 150480402,
         "local": "Castro",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
+        "esp"
     	]
     },
     {
@@ -6547,7 +6673,10 @@ var db_centros_galicia_raw = [
 		"codlocal": 150350000,
         "local": "Fene",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
+        "esp"
     	]
     },
     {
@@ -6892,7 +7021,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 150760700,
         "local": "San Sadurniño",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -6910,7 +7041,10 @@ var db_centros_galicia_raw = [
 		"codlocal": 150540900,
         "local": "Narón",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
+        "esp"
     	]
     },
     {
@@ -7172,23 +7306,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 15023399,
-    "nombre" : "CPI Plurilingüe Eusebio Lorenzo Baleirón",
-    "enderezo" : "Tarrio",
-    "concello" : "Dodro",
-    "provincia" : "A Coruña",
-    "cp" : 15981,
-    "tlf" : 981802205,
-    "coordenadas": {
-		"lat" : "42.717476",
-    	"lon" : "-8.709702",
-    },
-	"ensinanzas": [
-    	"prim",
-    "esp"
-  	]
-  },
-  {
     "cod" : 15021810,
     "nombre" : "CEIP Santa Eulalia de Dumbría",
     "enderezo" : "Dumbría (Santa Baia)",
@@ -7217,24 +7334,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "43.470665",
     	"lon" : "-8.170771",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-    "esp"
-  	]
-  },
-  {
-    "cod" : 15023405,
-    "nombre" : "CPI A Xunqueira",
-    "enderezo" : "Avenida do Mar s/n",
-    "concello" : "Fene",
-    "provincia" : "A Coruña",
-    "cp" : 15500,
-    "tlf" : 881930110,
-    "coordenadas": {
-		"lat" : "43.477863",
-    	"lon" : "-8.171633",
     },
 	"ensinanzas": [
 		"inf",
@@ -7495,24 +7594,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 15007400,
-    "nombre" : "CPI de Ponte Carreira",
-    "enderezo" : "Rúa do ensino, s/n - Ponte Carreira",
-    "concello" : "Frades",
-    "provincia" : "A Coruña",
-    "cp" : 15686,
-    "tlf" : 881880671,
-    "coordenadas": {
-		"lat" : "43.020245",
-    	"lon" : "-8.255402",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-    "esp"
-  	]
-  },
-  {
     "cod" : 15020842,
     "nombre" : "CEIP de Torrexallóns",
     "enderezo" : "Torrexallons",
@@ -7523,24 +7604,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "43.187782",
     	"lon" : "-9.008827",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-    "esp"
-  	]
-  },
-  {
-    "cod" : 15007621,
-    "nombre" : "CPI Plurilingüe Cabo da Area",
-    "enderezo" : "Rúa Isidro Parga Pondal 45",
-    "concello" : "Laxe",
-    "provincia" : "A Coruña",
-    "cp" : 15118,
-    "tlf" : 881880709,
-    "coordenadas": {
-		"lat" : "43.21452",
-    	"lon" : "-8.993254",
     },
 	"ensinanzas": [
 		"inf",
@@ -7657,24 +7720,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 15008714,
-    "nombre" : "CPI da Picota",
-    "enderezo" : "A Picota s/n",
-    "concello" : "Mazaricos",
-    "provincia" : "A Coruña",
-    "cp" : 15256,
-    "tlf" : 881866091,
-    "coordenadas": {
-		"lat" : "42.936085",
-    	"lon" : "-8.992678",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-    "esp"
-  	]
-  },
-  {
     "cod" : 15008659,
     "nombre" : "CEIP Plurilingüe de Pino de Val",
     "enderezo" : "Rúa Igrexa s/n",
@@ -7765,24 +7810,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 15020854,
-    "nombre" : "CPI de Xanceda",
-    "enderezo" : "Lugar OS CORRILLOS",
-    "concello" : "Mesía",
-    "provincia" : "A Coruña",
-    "cp" : 15685,
-    "tlf" : 881880752,
-    "coordenadas": {
-		"lat" : "43.086224",
-    	"lon" : "-8.241039",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-    "esp"
-  	]
-  },
-  {
     "cod" : 15008982,
     "nombre" : "EEI de Olas",
     "enderezo" : "Olas (San Lourenzo)",
@@ -7819,24 +7846,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 15009071,
-    "nombre" : "CPI Castro Baxoi",
-    "enderezo" : "Rúa Marismas s/n",
-    "concello" : "Miño",
-    "provincia" : "A Coruña",
-    "cp" : 15630,
-    "tlf" : 881880765,
-    "coordenadas": {
-		"lat" : "43.35178",
-    	"lon" : "-8.207645",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-    "esp"
-  	]
-  },
-  {
     "cod" : 15023223,
     "nombre" : "CEIP de Bemantes",
     "enderezo" : "Bemantes",
@@ -7865,24 +7874,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "43.566097",
     	"lon" : "-8.016366",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-    "esp"
-  	]
-  },
-  {
-    "cod" : 15009241,
-    "nombre" : "CPI Plurilingüe Virxe da Cela",
-    "enderezo" : "O Xestal",
-    "concello" : "Monfero",
-    "provincia" : "A Coruña",
-    "cp" : 15619,
-    "tlf" : 981777606,
-    "coordenadas": {
-		"lat" : "43.303528",
-    	"lon" : "-8.045914",
     },
 	"ensinanzas": [
 		"inf",
@@ -7973,24 +7964,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.7878",
     	"lon" : "-8.9815035",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-    "esp"
-  	]
-  },
-  {
-    "cod" : 15010058,
-    "nombre" : "CPI do Feal",
-    "enderezo" : "Rúa Río Seco (O Feal) s/n",
-    "concello" : "Narón",
-    "provincia" : "A Coruña",
-    "cp" : 15572,
-    "tlf" : 881938177,
-    "coordenadas": {
-		"lat" : "43.525887",
-    	"lon" : "-8.188328",
     },
 	"ensinanzas": [
 		"inf",
@@ -8269,24 +8242,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 15019301,
-    "nombre" : "CPI de San Vicente",
-    "enderezo" : "Rúa Tadelle",
-    "concello" : "Baña (A)",
-    "provincia" : "A Coruña",
-    "cp" : 15863,
-    "tlf" : 981886555,
-    "coordenadas": {
-		"lat" : "42.960224",
-    	"lon" : "-8.764242",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-    "esp"
-  	]
-  },
-  {
     "cod" : 15001124,
     "nombre" : "CEIP Francisco Vales Villamarín",
     "enderezo" : "Rúa Carregal 4",
@@ -8297,42 +8252,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "43.281532",
     	"lon" : "-8.218994",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-    "esp"
-  	]
-  },
-  {
-    "cod" : 15001239,
-    "nombre" : "CPI Armando Cotarelo Valledor",
-    "enderezo" : "Campo do Rosario, s/n (Gandara)",
-    "concello" : "Boimorto",
-    "provincia" : "A Coruña",
-    "cp" : 15818,
-    "tlf" : 981516245,
-    "coordenadas": {
-		"lat" : "43.003185",
-    	"lon" : "-8.131348",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-    "esp"
-  	]
-  },
-  {
-    "cod" : 15001665,
-    "nombre" : "CPI Plurilingüe Antonio Orza Couto",
-    "enderezo" : "O Forte",
-    "concello" : "Boqueixón",
-    "provincia" : "A Coruña",
-    "cp" : 15881,
-    "tlf" : 881866783,
-    "coordenadas": {
-		"lat" : "42.825375",
-    	"lon" : "-8.416602",
     },
 	"ensinanzas": [
 		"inf",
@@ -8369,24 +8288,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.862",
     	"lon" : "-8.677074",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-    "esp"
-  	]
-  },
-  {
-    "cod" : 15001926,
-    "nombre" : "CPI As Revoltas",
-    "enderezo" : "Lugar A Carballa 17",
-    "concello" : "Cabana de Bergantiños",
-    "provincia" : "A Coruña",
-    "cp" : 15115,
-    "tlf" : 881880283,
-    "coordenadas": {
-		"lat" : "43.219387",
-    	"lon" : "-8.930818",
     },
 	"ensinanzas": [
 		"inf",
@@ -8778,24 +8679,6 @@ var db_centros_galicia_raw = [
 	"ensinanzas": [
 		"inf",
     	"prim",
-  	]
-  },
-  {
-    "cod" : 15003881,
-    "nombre" : "CPI Alcalde Xosé Pichel",
-    "enderezo" : "Rúa Traba, 88 (San Roque)",
-    "concello" : "Coristanco",
-    "provincia" : "A Coruña",
-    "cp" : 15147,
-    "tlf" : 881880536,
-    "coordenadas": {
-		"lat" : "43.19042",
-    	"lon" : "-8.735837",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-    "esp"
   	]
   },
   {
@@ -9336,23 +9219,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.14744",
     	"lon" : "-8.223652",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 36015111,
-    "nombre" : "CPI Aurelio Marcelino Rey García",
-    "enderezo" : "Rúa José Mª Lastra 3",
-    "concello" : "Cuntis",
-    "provincia" : "Pontevedra",
-    "cp" : 36670,
-    "tlf" : 886151222,
-    "coordenadas": {
-		"lat" : "42.63361",
-    	"lon" : "-8.559916",
     },
 	"ensinanzas": [
 		"inf",
@@ -9937,22 +9803,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 36004708,
-    "nombre" : "CPI de Mosteiro-Meis",
-    "enderezo" : "Mosteiro",
-    "concello" : "Meis",
-    "provincia" : "Pontevedra",
-    "cp" : 36637,
-    "tlf" : 886151379,
-    "coordenadas": {
-		"lat" : "42.518845",
-    	"lon" : "-8.705356",
-    },
-	"ensinanzas": [
-    	"prim",
-  	]
-  },
-  {
     "cod" : 36018446,
     "nombre" : "CEIP da Armenteira",
     "enderezo" : "Lugar Vilar 64-A",
@@ -10082,40 +9932,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.294083",
     	"lon" : "-8.6789",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 36004927,
-    "nombre" : "CPI de Mondariz",
-    "enderezo" : "Avenida Grupo Escolar 39",
-    "concello" : "Mondariz",
-    "provincia" : "Pontevedra",
-    "cp" : 36870,
-    "tlf" : 886110291,
-    "coordenadas": {
-		"lat" : "42.235844",
-    	"lon" : "-8.454048",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 36005142,
-    "nombre" : "CPI Santa Lucía",
-    "enderezo" : "Rúa Sete 34",
-    "concello" : "Moraña",
-    "provincia" : "Pontevedra",
-    "cp" : 36660,
-    "tlf" : 886159528,
-    "coordenadas": {
-		"lat" : "42.585445",
-    	"lon" : "-8.587189",
     },
 	"ensinanzas": [
 		"inf",
@@ -10293,22 +10109,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 36005865,
-    "nombre" : "CPI de Panxón",
-    "enderezo" : "Camiño dos Lagos 1",
-    "concello" : "Nigrán",
-    "provincia" : "Pontevedra",
-    "cp" : 36340,
-    "tlf" : 986365963,
-    "coordenadas": {
-		"lat" : "42.14606",
-    	"lon" : "-8.82311",
-    },
-	"ensinanzas": [
-    	"prim",
-  	]
-  },
-  {
     "cod" : 36005774,
     "nombre" : "CEIP Humberto Juanes",
     "enderezo" : "Rúa Curros Enriquez, 2 (Vilamean)",
@@ -10370,23 +10170,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "41.99563",
     	"lon" : "-8.816212",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 36006079,
-    "nombre" : "CPI Curros Enríquez",
-    "enderezo" : "Lugar Pazos 25",
-    "concello" : "Pazos de Borbén",
-    "provincia" : "Pontevedra",
-    "cp" : 36841,
-    "tlf" : 886110501,
-    "coordenadas": {
-		"lat" : "42.29312",
-    	"lon" : "-8.532906",
     },
 	"ensinanzas": [
 		"inf",
@@ -10529,23 +10312,6 @@ var db_centros_galicia_raw = [
 		"inf",
     	"prim",
     "esp"
-  	]
-  },
-  {
-    "cod" : 27005913,
-    "nombre" : "CPI Ramón Piñeiro",
-    "enderezo" : "Praza dos Reis, s/n (A Pobra de San Xiao)",
-    "concello" : "Láncara",
-    "provincia" : "Lugo",
-    "cp" : 27360,
-    "tlf" : 982870370,
-    "coordenadas": {
-		"lat" : "42.863792",
-    	"lon" : "-7.443657",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
   	]
   },
   {
@@ -10924,23 +10690,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 27007788,
-    "nombre" : "CPI Plurilingüe de Navia de Suarna",
-    "enderezo" : "Rúa Pallarón s/n",
-    "concello" : "Navia de Suarna",
-    "provincia" : "Lugo",
-    "cp" : 27650,
-    "tlf" : 982870601,
-    "coordenadas": {
-		"lat" : "42.966137",
-    	"lon" : "-7.0029955",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 27008148,
     "nombre" : "CEIP das Nogais",
     "enderezo" : "Rúa San Andres s/n",
@@ -11298,23 +11047,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 27012450,
-    "nombre" : "CPI Dr. López Suárez",
-    "enderezo" : "Rúa Rosalia de Castro, s/n (Escairón)",
-    "concello" : "Saviñao (O)",
-    "provincia" : "Lugo",
-    "cp" : 27540,
-    "tlf" : 982828224,
-    "coordenadas": {
-		"lat" : "42.587162",
-    	"lon" : "-7.6379766",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 27012474,
     "nombre" : "CEIP Plurilingüe Virxe do Carme",
     "enderezo" : "Camiño do Pazo, s/n (Sober)",
@@ -11325,23 +11057,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.46168",
     	"lon" : "-7.582296",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 27012504,
-    "nombre" : "CPI San Tomé do Carballo",
-    "enderezo" : "Rúa do Conde s/n",
-    "concello" : "Taboada",
-    "provincia" : "Lugo",
-    "cp" : 27550,
-    "tlf" : 982870851,
-    "coordenadas": {
-		"lat" : "42.721172",
-    	"lon" : "-7.7606287",
     },
 	"ensinanzas": [
 		"inf",
@@ -11535,23 +11250,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 27007958,
-    "nombre" : "CPI Luís Díaz Moreno",
-    "enderezo" : "Estrada de Aranza s/n",
-    "concello" : "Baralla",
-    "provincia" : "Lugo",
-    "cp" : 27680,
-    "tlf" : 982870071,
-    "coordenadas": {
-		"lat" : "42.892044",
-    	"lon" : "-7.2563624",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 27002584,
     "nombre" : "CEIP Virxe do Carme",
     "enderezo" : "Rúa das Escolas, s/n (Os Castros)",
@@ -11632,23 +11330,6 @@ var db_centros_galicia_raw = [
     	"lon" : "-8.820155",
     },
 	"ensinanzas": [
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 36000247,
-    "nombre" : "CPI de Cova Terreña",
-    "enderezo" : "Dolores Agrelo s/n",
-    "concello" : "Baiona",
-    "provincia" : "Pontevedra",
-    "cp" : 36300,
-    "tlf" : 886120001,
-    "coordenadas": {
-		"lat" : "42.116703",
-    	"lon" : "-8.852749",
-    },
-	"ensinanzas": [
-		"inf",
     	"prim",
   	]
   },
@@ -11749,23 +11430,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.63489",
     	"lon" : "-8.631949",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 36000405,
-    "nombre" : "CPI Alfonso VII",
-    "enderezo" : "Rúa Jose Salgado 18",
-    "concello" : "Caldas de Reis",
-    "provincia" : "Pontevedra",
-    "cp" : 36650,
-    "tlf" : 886159005,
-    "coordenadas": {
-		"lat" : "42.60395",
-    	"lon" : "-8.637249",
     },
 	"ensinanzas": [
 		"inf",
@@ -11909,40 +11573,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 36001148,
-    "nombre" : "CPI da Cañiza",
-    "enderezo" : "Acceso o Parque s/n",
-    "concello" : "Cañiza (A)",
-    "provincia" : "Pontevedra",
-    "cp" : 36880,
-    "tlf" : 886120020,
-    "coordenadas": {
-		"lat" : "42.218502",
-    	"lon" : "-8.281298",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 36001252,
-    "nombre" : "CPI do Progreso",
-    "enderezo" : "Paseo das Lombas, 2 (O Progreso)",
-    "concello" : "Catoira",
-    "provincia" : "Pontevedra",
-    "cp" : 36612,
-    "tlf" : 886159201,
-    "coordenadas": {
-		"lat" : "42.6706",
-    	"lon" : "-8.722962",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 36001343,
     "nombre" : "CEIP San Xoán Bautista",
     "enderezo" : "Rúa das Longas, 23 (Cerdedo)",
@@ -12074,23 +11704,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.337856",
     	"lon" : "-7.8623915",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 32009360,
-    "nombre" : "CPI José García García",
-    "enderezo" : "Mende 1",
-    "concello" : "Ourense",
-    "provincia" : "Ourense",
-    "cp" : 32004,
-    "tlf" : 988232529,
-    "coordenadas": {
-		"lat" : "42.347206",
-    	"lon" : "-7.839303",
     },
 	"ensinanzas": [
 		"inf",
@@ -12416,23 +12029,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.379208",
     	"lon" : "-8.071375",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 32012103,
-    "nombre" : "CPI Virxe da Saleta",
-    "enderezo" : "A Costa",
-    "concello" : "San Cristovo de Cea",
-    "provincia" : "Ourense",
-    "cp" : 32130,
-    "tlf" : 988282169,
-    "coordenadas": {
-		"lat" : "42.470627",
-    	"lon" : "-7.984178",
     },
 	"ensinanzas": [
 		"inf",
@@ -12798,40 +12394,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 27002249,
-    "nombre" : "CPI de Castroverde",
-    "enderezo" : "Rúa dos Nenos s/n",
-    "concello" : "Castroverde",
-    "provincia" : "Lugo",
-    "cp" : 27120,
-    "tlf" : 982870175,
-    "coordenadas": {
-		"lat" : "43.03091",
-    	"lon" : "-7.3233757",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 27002353,
-    "nombre" : "CPI de Cervantes",
-    "enderezo" : "Rúa dos Colexios s/n",
-    "concello" : "Cervantes",
-    "provincia" : "Lugo",
-    "cp" : 27664,
-    "tlf" : 982828940,
-    "coordenadas": {
-		"lat" : "42.86857",
-    	"lon" : "-7.06284",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 27014847,
     "nombre" : "CEIP Plurilingüe do Corgo",
     "enderezo" : "Estrada Nacional VI s/n",
@@ -12842,23 +12404,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.936806",
     	"lon" : "-7.4092484",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 27002997,
-    "nombre" : "CPI Plurilingüe Virxe do Monte",
-    "enderezo" : "Feira do Monte",
-    "concello" : "Cospeito",
-    "provincia" : "Lugo",
-    "cp" : 27377,
-    "tlf" : 982870262,
-    "coordenadas": {
-		"lat" : "43.234467",
-    	"lon" : "-7.559307",
     },
 	"ensinanzas": [
 		"inf",
@@ -12917,23 +12462,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 27003655,
-    "nombre" : "CPI Poeta Uxío Novoneira",
-    "enderezo" : "Seoane",
-    "concello" : "Folgoso do Courel",
-    "provincia" : "Lugo",
-    "cp" : 27324,
-    "tlf" : 982828168,
-    "coordenadas": {
-		"lat" : "42.635918",
-    	"lon" : "-7.1543097",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 27004519,
     "nombre" : "CEIP Fondo Nois",
     "enderezo" : "Rúa Nois, 2 (Fondo de Nois)",
@@ -12978,23 +12506,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "43.57325",
     	"lon" : "-7.258272",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 27004635,
-    "nombre" : "CPI Dr. López Suárez",
-    "enderezo" : "Praza de España s/n",
-    "concello" : "Friol",
-    "provincia" : "Lugo",
-    "cp" : 27220,
-    "tlf" : 982828180,
-    "coordenadas": {
-		"lat" : "43.02973",
-    	"lon" : "-7.7901864",
     },
 	"ensinanzas": [
 		"inf",
@@ -13063,23 +12574,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.896038",
     	"lon" : "-7.5897994",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 27014008,
-    "nombre" : "CPI Tino Grandío",
-    "enderezo" : "Estrada Guntín s/n",
-    "concello" : "Guntín",
-    "provincia" : "Lugo",
-    "cp" : 27211,
-    "tlf" : 982870363,
-    "coordenadas": {
-		"lat" : "42.88559",
-    	"lon" : "-7.696486",
     },
 	"ensinanzas": [
 		"inf",
@@ -13444,23 +12938,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 15019347,
-    "nombre" : "CPI Camiño de Santiago",
-    "enderezo" : "Rúa do concello 16",
-    "concello" : "Pino (O)",
-    "provincia" : "A Coruña",
-    "cp" : 15821,
-    "tlf" : 881867011,
-    "coordenadas": {
-		"lat" : "42.907944",
-    	"lon" : "-8.364193",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 15013199,
     "nombre" : "CEP Salustiano Rey Eiras",
     "enderezo" : "Rúa BANDASECA s/n",
@@ -13764,23 +13241,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 15014738,
-    "nombre" : "CPI Plurilingüe dos Dices",
-    "enderezo" : "Os Dices",
-    "concello" : "Rois",
-    "provincia" : "A Coruña",
-    "cp" : 15911,
-    "tlf" : 881866890,
-    "coordenadas": {
-		"lat" : "42.764404",
-    	"lon" : "-8.692546",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 15014799,
     "nombre" : "CEIP Plurilingüe de Pumar-Urdilde",
     "enderezo" : "O Pumar",
@@ -13842,23 +13302,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "43.356087",
     	"lon" : "-8.2529745",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 15014957,
-    "nombre" : "CPI de San Sadurniño",
-    "enderezo" : "Rúa Marques de Figueroa 19",
-    "concello" : "San Sadurniño",
-    "provincia" : "A Coruña",
-    "cp" : 15560,
-    "tlf" : 881930489,
-    "coordenadas": {
-		"lat" : "43.534817",
-    	"lon" : "-8.072328",
     },
 	"ensinanzas": [
 		"inf",
@@ -14053,40 +13496,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 15021317,
-    "nombre" : "CPI Pecalama",
-    "enderezo" : "Pontepedra",
-    "concello" : "Tordoia",
-    "provincia" : "A Coruña",
-    "cp" : 15683,
-    "tlf" : 881960001,
-    "coordenadas": {
-		"lat" : "43.08812",
-    	"lon" : "-8.552492",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 15017880,
-    "nombre" : "CPI Plurilingüe de Fonte-Díaz",
-    "enderezo" : "Rúa Isabel II s/n",
-    "concello" : "Touro",
-    "provincia" : "A Coruña",
-    "cp" : 15822,
-    "tlf" : 881867840,
-    "coordenadas": {
-		"lat" : "42.86715",
-    	"lon" : "-8.302834",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 15018021,
     "nombre" : "CEIP da Polveira",
     "enderezo" : "Chaián (Santa María)",
@@ -14097,23 +13506,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.964478",
     	"lon" : "-8.536056",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 15020994,
-    "nombre" : "CPI de Viaño Pequeno",
-    "enderezo" : "Viaño Pequeno",
-    "concello" : "Trazo",
-    "provincia" : "A Coruña",
-    "cp" : 15687,
-    "tlf" : 881866510,
-    "coordenadas": {
-		"lat" : "43.02503",
-    	"lon" : "-8.517731",
     },
 	"ensinanzas": [
 		"inf",
@@ -14165,40 +13557,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.962124",
     	"lon" : "-8.6516695",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 15018203,
-    "nombre" : "CPI de Bembibre",
-    "enderezo" : "Rúa Socortes 18",
-    "concello" : "Val do Dubra",
-    "provincia" : "A Coruña",
-    "cp" : 15873,
-    "tlf" : 881866981,
-    "coordenadas": {
-		"lat" : "43.025013",
-    	"lon" : "-8.662055",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 15020911,
-    "nombre" : "CPI Plurilingüe de Vedra",
-    "enderezo" : "Avenida do Mestre Manuel Gómez",
-    "concello" : "Vedra",
-    "provincia" : "A Coruña",
-    "cp" : 15885,
-    "tlf" : 881867015,
-    "coordenadas": {
-		"lat" : "42.773907",
-    	"lon" : "-8.483543",
     },
 	"ensinanzas": [
 		"inf",
@@ -14301,23 +13659,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "43.149273",
     	"lon" : "-8.959065",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 15019281,
-    "nombre" : "CPI de Zas",
-    "enderezo" : "Rúa de Galicia 49",
-    "concello" : "Zas",
-    "provincia" : "A Coruña",
-    "cp" : 15850,
-    "tlf" : 881960028,
-    "coordenadas": {
-		"lat" : "43.10595",
-    	"lon" : "-8.917638",
     },
 	"ensinanzas": [
 		"inf",
@@ -14581,23 +13922,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 32002781,
-    "nombre" : "CPI Tomás Terrón Mendaña",
-    "enderezo" : "Sobradelo",
-    "concello" : "Carballeda de Valdeorras",
-    "provincia" : "Ourense",
-    "cp" : 32330,
-    "tlf" : 988335065,
-    "coordenadas": {
-		"lat" : "42.41678",
-    	"lon" : "-6.924863",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 32015025,
     "nombre" : "CEIP de Casaio",
     "enderezo" : "Rúa Devesa, s/n (Casaio)",
@@ -14683,23 +14007,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 32003643,
-    "nombre" : "CPI Virxe dos Remedios",
-    "enderezo" : "O Toural",
-    "concello" : "Castro Caldelas",
-    "provincia" : "Ourense",
-    "cp" : 32760,
-    "tlf" : 988203089,
-    "coordenadas": {
-		"lat" : "42.371235",
-    	"lon" : "-7.414661",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 32003771,
     "nombre" : "CEIP Plurilingüe Curros Enríquez",
     "enderezo" : "Avenida Lopez Blanco s/n",
@@ -14710,23 +14017,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.159687",
     	"lon" : "-7.9575725",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 32004118,
-    "nombre" : "CPI Antonio Faílde",
-    "enderezo" : "Entrada Nacional 525",
-    "concello" : "Coles",
-    "provincia" : "Ourense",
-    "cp" : 32100,
-    "tlf" : 988202017,
-    "coordenadas": {
-		"lat" : "42.41037",
-    	"lon" : "-7.8655562",
     },
 	"ensinanzas": [
 		"inf",
@@ -14880,23 +14170,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.308815",
     	"lon" : "-7.232287",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 32006929,
-    "nombre" : "CPI Terras de Maside",
-    "enderezo" : "Vía OUTEIRO GRANDE",
-    "concello" : "Maside",
-    "provincia" : "Ourense",
-    "cp" : 32570,
-    "tlf" : 988288354,
-    "coordenadas": {
-		"lat" : "42.41701",
-    	"lon" : "-8.034586",
     },
 	"ensinanzas": [
 		"inf",
@@ -15354,23 +14627,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.246178",
     	"lon" : "-8.700839",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 36013588,
-    "nombre" : "CPI do Toural",
-    "enderezo" : "O Toural 34",
-    "concello" : "Vilaboa",
-    "provincia" : "Pontevedra",
-    "cp" : 36141,
-    "tlf" : 886151766,
-    "coordenadas": {
-		"lat" : "42.359856",
-    	"lon" : "-8.633811",
     },
 	"ensinanzas": [
 		"inf",
@@ -16039,23 +15295,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 36007035,
-    "nombre" : "CPI Domingo Fontán",
-    "enderezo" : "Rapeira 9",
-    "concello" : "Portas",
-    "provincia" : "Pontevedra",
-    "cp" : 36658,
-    "tlf" : 886151632,
-    "coordenadas": {
-		"lat" : "42.579723",
-    	"lon" : "-8.655767",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 36007242,
     "nombre" : "CEIP de Viñas",
     "enderezo" : "Viñas 2",
@@ -16168,23 +15407,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.38816",
     	"lon" : "-8.503093",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 36007621,
-    "nombre" : "CPI de Pontecesures",
-    "enderezo" : "Rúa Avelino Pousa Antelo 2",
-    "concello" : "Pontecesures",
-    "provincia" : "Pontevedra",
-    "cp" : 36640,
-    "tlf" : 886151501,
-    "coordenadas": {
-		"lat" : "42.721622",
-    	"lon" : "-8.649652",
     },
 	"ensinanzas": [
 		"inf",
@@ -16344,40 +15566,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 36007813,
-    "nombre" : "CPI Julia Becerra Malvar",
-    "enderezo" : "Rúa Joaquin Garcia Alvarez, 16-17",
-    "concello" : "Ribadumia",
-    "provincia" : "Pontevedra",
-    "cp" : 36636,
-    "tlf" : 886151636,
-    "coordenadas": {
-		"lat" : "42.502792",
-    	"lon" : "-8.770931",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 36008155,
-    "nombre" : "CPI Plurilingüe de Rodeiro",
-    "enderezo" : "Rúa B 14",
-    "concello" : "Rodeiro",
-    "provincia" : "Pontevedra",
-    "cp" : 36530,
-    "tlf" : 986790028,
-    "coordenadas": {
-		"lat" : "42.648533",
-    	"lon" : "-7.9455667",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 36024173,
     "nombre" : "CRA María Zambrano",
     "enderezo" : "Rúa Escolas Pías s/n Baixo",
@@ -16388,23 +15576,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "41.919075",
     	"lon" : "-8.83365",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 36013576,
-    "nombre" : "CPI Manuel Suárez Marquier",
-    "enderezo" : "A Cumieira de Arriba s/n",
-    "concello" : "Rosal (O)",
-    "provincia" : "Pontevedra",
-    "cp" : 36770,
-    "tlf" : 886120385,
-    "coordenadas": {
-		"lat" : "41.930553",
-    	"lon" : "-8.837686",
     },
 	"ensinanzas": [
 		"inf",
@@ -16593,23 +15764,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.70274",
     	"lon" : "-8.246376",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 36009172,
-    "nombre" : "CPI Manuel Padín Truiteiro",
-    "enderezo" : "Arcade de Arriba",
-    "concello" : "Soutomaior",
-    "provincia" : "Pontevedra",
-    "cp" : 36690,
-    "tlf" : 986700049,
-    "coordenadas": {
-		"lat" : "42.33818",
-    	"lon" : "-8.599849",
     },
 	"ensinanzas": [
 		"inf",
@@ -17482,23 +16636,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 32015177,
-    "nombre" : "CPI de Padrenda-Crespos",
-    "enderezo" : "Rúa San Roque de Crespos 29",
-    "concello" : "Padrenda",
-    "provincia" : "Ourense",
-    "cp" : 32226,
-    "tlf" : 988685040,
-    "coordenadas": {
-		"lat" : "42.14032",
-    	"lon" : "-8.158364",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 15012420,
     "nombre" : "CEIP de Oza dos Ríos",
     "enderezo" : "Rúa Lois 35",
@@ -17754,40 +16891,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 15003376,
-    "nombre" : "CPI Plurilingüe O Cruce",
-    "enderezo" : "Campo da Feira",
-    "concello" : "Cerceda",
-    "provincia" : "A Coruña",
-    "cp" : 15185,
-    "tlf" : 981685053,
-    "coordenadas": {
-		"lat" : "43.18873",
-    	"lon" : "-8.477755",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 32005305,
-    "nombre" : "CPI Laureano Prieto",
-    "enderezo" : "Rúa Toural",
-    "concello" : "Gudiña (A)",
-    "provincia" : "Ourense",
-    "cp" : 32540,
-    "tlf" : 988421140,
-    "coordenadas": {
-		"lat" : "42.062077",
-    	"lon" : "-7.1360493",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 36009913,
     "nombre" : "CEIP Plurilingüe de Baño-Xanza",
     "enderezo" : "Lugar Baño",
@@ -17967,23 +17070,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "43.431076",
     	"lon" : "-7.3589087",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 27015967,
-    "nombre" : "CPI Uxío Novoneira",
-    "enderezo" : "Estrada de Cervantes s/n",
-    "concello" : "Pedrafita do Cebreiro",
-    "provincia" : "Lugo",
-    "cp" : 27670,
-    "tlf" : 982870633,
-    "coordenadas": {
-		"lat" : "42.728626",
-    	"lon" : "-7.0230327",
     },
 	"ensinanzas": [
 		"inf",
@@ -18291,22 +17377,6 @@ var db_centros_galicia_raw = [
     },
 	"ensinanzas": [
 		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 15001070,
-    "nombre" : "CPI de Cruz do Sar",
-    "enderezo" : "Rúa A Senra 33",
-    "concello" : "Bergondo",
-    "provincia" : "A Coruña",
-    "cp" : 15165,
-    "tlf" : 881960215,
-    "coordenadas": {
-		"lat" : "43.319736",
-    	"lon" : "-8.22662",
-    },
-	"ensinanzas": [
     	"prim",
   	]
   },
