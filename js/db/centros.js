@@ -868,7 +868,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 360350000,
         "local": "Nigrán",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim"
     	]
     },
     {
@@ -1467,7 +1469,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 360573101,
         "local": "Vigo",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -1485,7 +1489,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 320541201,
         "local": "Ourense",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -2142,7 +2148,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 270311101,
         "local": "Monforte de Lemos",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -3997,7 +4005,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 270282701,
         "local": "Lugo",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -4609,7 +4619,8 @@ var db_centros_galicia_raw = [
 		"codlocal": 150780001,
         "local": "Santiago de Compostela",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "prim",
     	]
     },
     {
@@ -4627,7 +4638,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 150780001,
         "local": "Santiago de Compostela",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -6048,7 +6061,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 150300001,
         "local": "Coruña, A",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -6143,7 +6158,9 @@ var db_centros_galicia_raw = [
 		"codlocal": 150300001,
         "local": "Coruña, A",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
     	]
     },
     {
@@ -6962,7 +6979,10 @@ var db_centros_galicia_raw = [
 		"codlocal": 150360001,
         "local": "Ferrol",
         "ensinanzas": [
-        "eso"
+        "eso",
+        "inf",
+        "prim",
+        "esp"
     	]
     },
     {
@@ -7388,24 +7408,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "43.47756",
     	"lon" : "-8.146786",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-    "esp"
-  	]
-  },
-  {
-    "cod" : 15006729,
-    "nombre" : "CEE Terra de Ferrol",
-    "enderezo" : "San Pedro de Leixa s/n",
-    "concello" : "Ferrol",
-    "provincia" : "A Coruña",
-    "cp" : 15405,
-    "tlf" : 881930187,
-    "coordenadas": {
-		"lat" : "43.510532",
-    	"lon" : "-8.214351",
     },
 	"ensinanzas": [
 		"inf",
@@ -8954,23 +8956,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 15005336,
-    "nombre" : "CEE Nosa Señora do Rosario",
-    "enderezo" : "Rúa Ronda Camilo Jose Cela 2",
-    "concello" : "A Coruña",
-    "provincia" : "A Coruña",
-    "cp" : 15008,
-    "tlf" : 981283496,
-    "coordenadas": {
-		"lat" : "43.347874",
-    	"lon" : "-8.403603",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 15005361,
     "nombre" : "CEIP Rosalía de Castro",
     "enderezo" : "Rúa Rio Avia s/n",
@@ -8981,23 +8966,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "43.35846",
     	"lon" : "-8.413183",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 15005385,
-    "nombre" : "CEE María Mariño",
-    "enderezo" : "Rúa As Xubias 15",
-    "concello" : "A Coruña",
-    "provincia" : "A Coruña",
-    "cp" : 15006,
-    "tlf" : 981174273,
-    "coordenadas": {
-		"lat" : "43.34393",
-    	"lon" : "-8.384081",
     },
 	"ensinanzas": [
 		"inf",
@@ -10092,23 +10060,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 36024756,
-    "nombre" : "CEE de Panxón",
-    "enderezo" : "Camiño dos Lagos, 1 1",
-    "concello" : "Nigrán",
-    "provincia" : "Pontevedra",
-    "cp" : 36340,
-    "tlf" : 986383119,
-    "coordenadas": {
-		"lat" : "42.14645",
-    	"lon" : "-8.822868",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 36005774,
     "nombre" : "CEIP Humberto Juanes",
     "enderezo" : "Rúa Curros Enriquez, 2 (Vilamean)",
@@ -10400,23 +10351,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 27014057,
-    "nombre" : "CEE Santa María",
-    "enderezo" : "Rúa Da Luz 1",
-    "concello" : "Lugo",
-    "provincia" : "Lugo",
-    "cp" : 27002,
-    "tlf" : 982242213,
-    "coordenadas": {
-		"lat" : "42.995705",
-    	"lon" : "-7.5464168",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 27006395,
     "nombre" : "CEIP Benigno Quiroga Ballesteros",
     "enderezo" : "Rúa Bolaño Rivadeneira s/n",
@@ -10615,23 +10549,6 @@ var db_centros_galicia_raw = [
     "coordenadas": {
 		"lat" : "42.531246",
     	"lon" : "-7.5329733",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 27015360,
-    "nombre" : "CEE Infanta Elena",
-    "enderezo" : "Rúa Camiño Real s/n",
-    "concello" : "Monforte de Lemos",
-    "provincia" : "Lugo",
-    "cp" : 27400,
-    "tlf" : 982403303,
-    "coordenadas": {
-		"lat" : "42.532845",
-    	"lon" : "-7.5316644",
     },
 	"ensinanzas": [
 		"inf",
@@ -14313,23 +14230,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 32015463,
-    "nombre" : "CEE Miño",
-    "enderezo" : "Rúa Juan Fernández de Gres 13",
-    "concello" : "Ourense",
-    "provincia" : "Ourense",
-    "cp" : 32960,
-    "tlf" : 988238550,
-    "coordenadas": {
-		"lat" : "42.36458",
-    	"lon" : "-7.846027",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 32015529,
     "nombre" : "CEE O Pino",
     "enderezo" : "Estrada de Vigo, 121 (Casar do Mato)",
@@ -16466,40 +16366,6 @@ var db_centros_galicia_raw = [
   	]
   },
   {
-    "cod" : 36010733,
-    "nombre" : "CEE Saladino Cortizo",
-    "enderezo" : "Rúa Carballal 60",
-    "concello" : "Vigo",
-    "provincia" : "Pontevedra",
-    "cp" : 36318,
-    "tlf" : 986288188,
-    "coordenadas": {
-		"lat" : "42.23834",
-    	"lon" : "-8.638246",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 15027502,
-    "nombre" : "CEE Manuel López Navalón",
-    "enderezo" : "Lugar CASAS DO REGO 20",
-    "concello" : "Santiago de Compostela",
-    "provincia" : "A Coruña",
-    "cp" : 15898,
-    "tlf" : 981562977,
-    "coordenadas": {
-		"lat" : "42.8849",
-    	"lon" : "-8.556718",
-    },
-	"ensinanzas": [
-		"inf",
-    	"prim",
-  	]
-  },
-  {
     "cod" : 15018801,
     "nombre" : "CEIP de Torres",
     "enderezo" : "Torres (San Xorxe)",
@@ -17906,22 +17772,6 @@ var db_centros_galicia_raw = [
     },
 	"ensinanzas": [
 		"inf",
-    	"prim",
-  	]
-  },
-  {
-    "cod" : 15032327,
-    "nombre" : "CEE O Pedroso",
-    "enderezo" : "Rúa SAN PAIO s/n",
-    "concello" : "Santiago de Compostela",
-    "provincia" : "A Coruña",
-    "cp" : 15898,
-    "tlf" : 981561972,
-    "coordenadas": {
-		"lat" : "42.88469",
-    	"lon" : "-8.557499",
-    },
-	"ensinanzas": [
     	"prim",
   	]
   },
