@@ -180,6 +180,14 @@
     </div>
 </div>
 
+<div  id="newVersionModal" tabindex="-1" role="dialog" aria-labelledby="newVersionLabel" aria-hidden="true">
+      <div class="modal-header">
+        <h5 class="modal-title" id="newVersionLabel">Nova versión</h5>
+      </div>
+      <div class="modal-body">
+        <p>Desenvolvimos unha nova versión desta aplicación con algunhas características adicionais. Podedes probala en <a href="https://centroseducativos.gal">centroseducativos.gal</a>.</p>
+      </div>
+</div>
 <div id="modal">
 </div>
 <script src="js/db/centros.min.js" charset="utf-8"></script>
@@ -211,6 +219,13 @@
              width: 800,
              onClosed: app.closing_modal
          });
+         $("#newVersionModal").iziModal({
+             padding:  "2em",
+             top: 100,
+             bottom: 100,
+             width: 800,
+         });
+         $('#newVersionModal').iziModal('open');
          app.load_data();
     });
 
